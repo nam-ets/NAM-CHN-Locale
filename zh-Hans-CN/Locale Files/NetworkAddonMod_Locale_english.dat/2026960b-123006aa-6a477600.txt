@@ -1,0 +1,8 @@
+For building Fractionally Angled Networks
+Button contains several different Puzzle Pieces for Road, One-Way Road, and Avenue
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of puzzle pieces
+When the cursor changes from red to green, click to place
+此工具用于建造多角度路网拼块
+这个选项包括多种适用于道路、单行道以及大道的多角度路网组件。
+如需旋转拼块方向，请按Home或End键；如需切换不同拼块，请按Tab键。
+当游标从红色变为绿色后，单击鼠标左键以放置物件。

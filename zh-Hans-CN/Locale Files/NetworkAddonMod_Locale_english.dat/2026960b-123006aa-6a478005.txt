@@ -1,0 +1,7 @@
+For building One-Way Road Viaducts 15 meters tall
+Button contains several different Puzzle Pieces for One-Way Road
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of puzzle pieces
+When the cursor changes from red to green, click to place
+15m单行道高架桥
+按 Home/End 旋转拼块
+按 Tab 切换拼块

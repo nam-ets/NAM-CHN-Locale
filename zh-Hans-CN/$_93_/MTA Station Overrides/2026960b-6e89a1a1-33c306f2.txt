@@ -1,0 +1,7 @@
+A tram station, suitable for GLR in Avenue. Also integrated is a bus stop.
+
+Lot Size: 2x2
+Monthly Cost:  #m:EA54D286#
+Bulldoze Cost:  #m:099AFACD#
+Passenger Capacity: #d:4aa60ebc#
+Created by Antoine

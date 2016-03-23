@@ -1,0 +1,6 @@
+Dual diagonal passenger railway station with pedestrian approach on both sides of the station.
+
+Lot Size: 2x2
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Marrast.

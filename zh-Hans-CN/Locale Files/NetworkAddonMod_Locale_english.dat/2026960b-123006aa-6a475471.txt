@@ -1,0 +1,10 @@
+For building RealHighway Cosmetic Pieces for 3-Tile Networks
+Button contains cosmetic pieces for different RHW 3-tile networks: RHW-6C and RHW-8C
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of Cosmetic Pieces
+When the cursor changes from red to green, click to place.
+NOTE: These pieces should NOT be confused with TuLEPs.
+真实高速公路(RHW)装饰拼块(3格宽道路)
+按钮包含了RHW三格宽道路不同的装饰拼块:RHW-6C及RHW-8C
+使用 Home/End 键来旋转拼块 & 使用TAB键来切换不同的RHW装饰拼块类型
+当徽标从红色变为绿色时，点击以放置。
+提示:这些拼块和道路渠化拼块(TuLEPs)不兼容。

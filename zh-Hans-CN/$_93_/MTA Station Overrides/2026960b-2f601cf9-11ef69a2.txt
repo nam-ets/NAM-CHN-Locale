@@ -1,0 +1,6 @@
+A modern EL-Rail station with integrated bus stop.
+
+Lot Size: 1x3 plus 1 overhanging tile
+Monthly Cost:  #m:EA54D286#  Bulldoze Cost:  #m:099AFACD#
+Passenger Capacity: #d:4aa60ebc#
+Created by TWrecks

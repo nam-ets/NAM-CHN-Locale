@@ -1,0 +1,4 @@
+Diagonal FLEXRamp Type A1
+Supports RHW-2 (Ground Level Only), RHW-4 (Ground Level Only)
+A1型自适应出入口（对角）
+适用于RHW-2（地面），RHW-4（地面）

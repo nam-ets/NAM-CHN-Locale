@@ -1,0 +1,6 @@
+A GLR station with a central platform.
+
+Lot Size: 3x5
+Monthly Cost:  #m:EA54D286#, Bulldoze Cost:  #m:099AFACD#
+Passenger Capacity: #d:4aa60ebc#
+Created by GoaSkin

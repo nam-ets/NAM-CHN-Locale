@@ -1,0 +1,4 @@
+Underground 4way junction under Pedmall
+Rotate for other junctions and for rail surface
+地下十字路口藏于步行街
+按Home/End可切换铁路地表和路口样式

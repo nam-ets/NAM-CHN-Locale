@@ -1,0 +1,4 @@
+Use the [Tab] key to move downward through the puzzle pieces and the [Shift] + [Tab] keys to move upward
+Once a puzzle piece is selected, use the [Home] and [End] keys to cycle through the various puzzle piece orientations
+如需切换至下一拼块，请按Tab键；如需切换至上一拼块，请按Shift + Tab键。
+当选定了需要的拼块之后，请按Home或End键，以转动拼块到各种不同的预设方向上。

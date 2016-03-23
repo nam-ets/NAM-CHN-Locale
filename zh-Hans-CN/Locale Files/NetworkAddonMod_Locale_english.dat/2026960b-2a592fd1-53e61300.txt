@@ -1,0 +1,4 @@
+Underground T junction under transparent surface
+Rotate for other junctions and for green surface
+地下T形路口藏于透明地表
+按Home/End可切换草地地表和路口样式

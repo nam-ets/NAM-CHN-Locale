@@ -1,0 +1,7 @@
+For building ElevatedRail Dual/Double-Decker Pieces.
+Button contains several different Pieces for Dual/Double-Decker Networking.
+Use the Home/End key to rotate the Piece & use the TAB key to cycle through the different types of ElevatedRail Pieces. 
+When the cursor changes from red to green, click to place.
+高架铁路双层巴士拼块
+按 Home/End 旋转拼块
+按 Tab 切换拼块

@@ -1,0 +1,7 @@
+For building Diagonal Streets on sloped terrain or intersections
+Button contains several different Puzzle and Helper Pieces for Street
+Use the Home/End key to rotate the Puzzle/Flex Piece & use TAB key to cycle through the different types of Diagonal Street Pieces
+When the cursor changes from red to green, click to place
+用于建造贴着地形的街道
+按 Home/End 旋转拼块
+按 Tab 切换拼块

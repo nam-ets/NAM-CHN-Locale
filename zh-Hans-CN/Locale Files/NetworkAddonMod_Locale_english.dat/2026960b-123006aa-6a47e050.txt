@@ -1,0 +1,8 @@
+For building Single-Sided Parallel Ramps
+Button contains Single-Sided Parallel Ramps for both Ground Highway and Elevated Highway
+Use the Home/End key to rotate the Ramps & use the TAB key to cycle through different types of Ramps & between Ground Highway and Elevated Highway
+When the cursor changes from red to green, click to place
+单面平行坡道
+包括地面高速和高架高速的单面平行坡道
+按 Home/End 旋转坡道
+按 Tab 切换地面高速坡道和高架高速坡道

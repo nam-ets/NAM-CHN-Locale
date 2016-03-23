@@ -1,0 +1,6 @@
+A Euro style GLR station.
+
+Lot Size: 1x3
+Monthly Cost:  #m:EA54D286#  Bulldoze Cost:  #m:099AFACD#
+Passenger Capacity: #d:4aa60ebc#
+Created by gshmails

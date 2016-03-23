@@ -1,0 +1,8 @@
+For building additional styles of Draggable Ground Light Rail with customizable base textures
+Button contains starters for two additional Ground Light Rail styles, plus filler pieces.
+Use the Home/End key to rotate the Piece & use the TAB key to cycle through the different types of GLR Pieces. 
+When the cursor changes from red to green, click to place.
+修建带附加风格材质的可拖拽地面轻轨
+按钮包含两种附加风格的地面轻轨的起始拼块和填充拼块
+使用 Home/End 键来旋转拼块 & 使用TAB键来切换不同类型的拼块
+当游标从红色变成绿色，点击以放置。

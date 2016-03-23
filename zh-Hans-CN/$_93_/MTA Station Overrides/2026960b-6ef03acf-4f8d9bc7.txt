@@ -1,0 +1,6 @@
+A medium British Style railway station with 2 pairs of tracks and a parking lot.
+
+Lot Size: 4x7
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Ill Tonkso.

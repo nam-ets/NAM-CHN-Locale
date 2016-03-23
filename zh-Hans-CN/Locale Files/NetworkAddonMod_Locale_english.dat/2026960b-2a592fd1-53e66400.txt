@@ -1,0 +1,4 @@
+Underground T junction under straight Rail
+Rotate for other junctions and for pedmall surface
+地下T形路口藏于直行铁路
+按Home/End可切换路口样式和地砖纹理

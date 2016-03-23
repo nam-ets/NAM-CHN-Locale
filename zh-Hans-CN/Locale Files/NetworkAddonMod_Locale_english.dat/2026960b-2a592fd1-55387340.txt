@@ -1,0 +1,2 @@
+Hole Digger Piece (14m), rotate for Raiser Piece
+挖地工具（14米），如需相应高度的抬地工具，请反复按Home或End键数次。

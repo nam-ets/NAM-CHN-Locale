@@ -1,0 +1,8 @@
+For building RealHighway Wide Curve Pieces
+Button contains pieces to build Wide Curves for the RHW networks
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of Curve Pieces
+When the cursor changes from red to green, click to place.
+真实高速公路(RHW)弯道拼块
+按钮包含了RHW的各种弯道拼块。
+使用 Home/End 键来旋转拼块 & 使用TAB键来切换不同的RHW弯道拼块。
+当徽标从红色变为绿色时，点击以放置。

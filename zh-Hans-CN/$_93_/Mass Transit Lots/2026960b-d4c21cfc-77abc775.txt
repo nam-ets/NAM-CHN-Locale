@@ -1,0 +1,11 @@
+To use, plop on existing diagonal rail. Drag rail through after you plop.
+如需使用这个车站，请把它放置在已有的45度斜向铁轨上，然后再用铁路工具拖拽穿过车站建筑。
+
+Lot Size: 1x2 (overhanging building)
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Xyloxadoria.
+占地大小：1x2（仅包含车站建筑基部占地大小）
+维护开支：#m:EA54D286#
+乘客最大容量：#d:4aa60ebc#
+作者：Xyloxadoria

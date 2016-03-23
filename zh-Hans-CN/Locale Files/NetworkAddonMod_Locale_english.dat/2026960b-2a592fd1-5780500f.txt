@@ -1,0 +1,2 @@
+FLEXRamp Type F1 (single exit only lane splitting off fractionally)
+F1型自适应出入口（18.5°分离）

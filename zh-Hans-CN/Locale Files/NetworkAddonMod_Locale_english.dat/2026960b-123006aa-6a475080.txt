@@ -1,0 +1,10 @@
+For building RealHighway Neighbor Connectors
+Button contains Starter Pieces to build Neighbor Connections for RHW Networks
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of RHW Neighbor Connector Pieces
+When the cursor changes from red to green, click to place.
+NOTE: ALL REALHIGHWAY NEIGHBOR CONNECTIONS (EXCEPT RHW-2) ARE REQUIRED TO USE NEIGHBOR CONNECTOR PIECES TO ENSURE PROPERLY FUNCTIONING NEIGHBOR CONNECTIONS!!! OTHERWISE ONLY FREIGHT TRUCKS WILL USE THE RHW!!!
+建设真实高速公路(RHW)邻城连接拼块
+按钮包含了建造RHW邻城连接的起始拼块
+使用Home/End键以旋转拼块 & 使用TAB键去选择不同种类的RHW邻城连接拼块
+当指针从红色转变成绿色,点击以放置。
+提示:所有的RHW邻城连接(除了RHW-2)都系要使用邻城链接拼块来确保正确运行邻城链接!!! 否则只有货运卡车会使用RHW!!!

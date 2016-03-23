@@ -1,0 +1,7 @@
+This lot has a freight rail line on it, be sure to attach it to an existing rail network.
+
+Handles #d:4aa60ebc# tons of freight.
+Lot Size : 6x4.
+Monthly Cost :  #m:ea54d286#
+Bulldoze Cost :  #m:099afacd#
+Made by SimGoober

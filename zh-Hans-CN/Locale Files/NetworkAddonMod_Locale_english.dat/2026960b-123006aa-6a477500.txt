@@ -1,0 +1,7 @@
+For building Wide-Radius Curves
+Button contains several different Puzzle Pieces for Road, One-Way Road, or Avenue
+Use the Home/End key to rotate the curve & use the TAB key to cycle through the different types of curves
+When the cursor changes from red to green, click to place
+用于建造大半径弯道
+按 Home/End 旋转拼块
+按 Tab 切换拼块

@@ -1,0 +1,6 @@
+Moderne Viadukteisenbahn-Station mit integrierter U-Bahn- und Bushaltestelle.
+
+Lotgröße: 1x6
+Monatliche Kosten: #m:EA54D286#
+Passagierkapazität: #d:4aa60ebc#
+Erstellt von Brenda_Xne.

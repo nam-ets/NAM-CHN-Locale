@@ -1,0 +1,4 @@
+Use this tile to disconnect sections of RealHighway from FLEX Pieces, Starters, Crossings, or other sections of RHW without affecting nearby tiles, including other Starters, FLEX Pieces, or Crossings
+Removes: Starters, FLEX Pieces, RHW-RHW crossings/intersections, RHW from other sections of RHW
+Required for: Draggable Inside Ramps
+Place down Disconnector onto desired tile and redraw anything if needed

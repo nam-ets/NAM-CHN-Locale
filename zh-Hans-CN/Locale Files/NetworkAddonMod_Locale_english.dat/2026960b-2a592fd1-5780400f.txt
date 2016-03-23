@@ -1,0 +1,2 @@
+FLEXRamp Type E1
+Supports RHW-4 (L0-L4), RHW-6S (L0-L4), RHW-8S (L0-L2), RHW-8C (L0-L2), RHW-10S (L0-L2)

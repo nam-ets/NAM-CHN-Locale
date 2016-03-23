@@ -1,0 +1,2 @@
+Road TuLEP-Type AxDTR (Rotate for STR)
+道路TuLEP-类型A平交铁路 (旋转以获得单线铁路)

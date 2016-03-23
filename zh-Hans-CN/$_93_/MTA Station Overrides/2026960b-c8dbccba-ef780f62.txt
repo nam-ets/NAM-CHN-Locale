@@ -1,0 +1,6 @@
+An elevated rail station for el rail over road.
+
+Lot Size: 1x3
+Monthly Cost:  #m:EA54D286#  Bulldoze Cost:  #m:099AFACD#
+Passenger Capacity: #d:4aa60ebc#
+Created by Swamper77

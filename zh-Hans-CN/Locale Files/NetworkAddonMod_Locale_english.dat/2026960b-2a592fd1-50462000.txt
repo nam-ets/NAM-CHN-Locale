@@ -1,0 +1,2 @@
+Curve - 90 degree road curve (5x5)
+弯道 - 90°道路弯道（5x5）

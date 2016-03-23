@@ -1,0 +1,8 @@
+For building T-Intersections
+Button contains T-Intersections for both Ground Highway and Elevated Highway.
+Use the Home/End key to rotate the T-Intersections & use the TAB key to cycle between Ground Highway and Elevated Highway.
+When the cursor changes from red to green, click to place.
+可建设T字路口
+本按钮包含匹配地面高速公路与高架高速公路的T字形路口
+按Home/End键可旋转方向，按TAB键可在地面与高架高速公路之间切换
+光标由红变绿时，点击鼠标左键即可建造

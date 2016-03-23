@@ -1,0 +1,6 @@
+Dual version of Marrast Passenger Railway Station.
+
+Lot Size: 1x6
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Marrast.

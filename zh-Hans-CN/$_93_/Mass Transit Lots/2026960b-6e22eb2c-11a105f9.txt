@@ -1,0 +1,6 @@
+Modern GLR Station with integrated bus stop.
+
+Lot size: 4x1
+Monthly Cost: #m:EA54D286#
+Capacity: #d:4aa60ebc#
+Created by Brenda Xne

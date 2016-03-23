@@ -1,0 +1,4 @@
+QuickChange Partial Diamond (L1 RHW, L0 Surface)
+Overrideable partial plop interchange, constructs one quarter of a diamond interchange
+四分之一菱形自适应立交（RHW于L1穿过，立交桥面在L0）
+可覆盖扑通在RHW上的半个立交，建造四分之一个菱形立交

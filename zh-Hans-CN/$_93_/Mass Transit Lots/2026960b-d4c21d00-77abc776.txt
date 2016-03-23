@@ -1,0 +1,6 @@
+Platziere diesen Lot auf einer diagonalen Viadukteisenbahnstrecke. Ziehe nach dem Bauen mit dem Eisenbahnwerkzeug, um den Bahnhof zu aktivieren.
+
+Lotgröße: 1x2 (überhängendes Gebäude)
+Monatliche Kosten: #m:EA54D286#
+Passagierkapazität: #d:4aa60ebc#
+Erstellt von Xyloxadoria.

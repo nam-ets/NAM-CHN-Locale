@@ -1,0 +1,4 @@
+Transition ramp tram-avenue - tram under avenue
+Rotate for other ramps
+大道中轻轨 - 大道下轻轨转换出入口
+旋转以获得其它出入口

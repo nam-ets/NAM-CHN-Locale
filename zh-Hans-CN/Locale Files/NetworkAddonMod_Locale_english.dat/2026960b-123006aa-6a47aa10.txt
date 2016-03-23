@@ -1,0 +1,8 @@
+For building Rail Tunnel under Ped Malls Dual/Double-Decker Pieces.
+Button contains several different Pieces for Dual/Double-Decker Networking.
+Use the Home/End key to rotate the Piece & use the TAB key to cycle through the different types of Rail Pieces.
+When the cursor changes from red to green, click to place.
+用于建设步行街下铁路隧道的双层拼块。
+这个按钮包含多种双层交通网络的拼块。
+使用Home/End键旋转拼块，使用Tab键循环显示不同种类的拼块。
+当光标由红变绿时，单击以建造。

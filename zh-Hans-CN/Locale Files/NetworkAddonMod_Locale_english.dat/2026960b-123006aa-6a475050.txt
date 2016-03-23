@@ -1,0 +1,8 @@
+For building RealHighway Filler Pieces
+Button contains Filler Pieces to build RHW networks in smaller chunks, in unstable situations
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of RHW Filler Pieces
+When the cursor changes from red to green, click to place
+RHW填充块建造说明
+此按钮包含了用于在小块区域与贴图不稳定的区域建设RHW的填充块
+使用Home与End键来旋转拼块，使用Tab键在不同的RHW填充块之间循环切换
+当光标由红色变为绿色时，点击左键来放置

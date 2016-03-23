@@ -1,0 +1,12 @@
+Orthogonal tram station.
+
+Lot Size: 1x2
+Montly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Denteil model created by NOB.
+正向地面轻轨站。
+
+占地: 1x2
+每月费用: #m:EA54D286#
+乘客容量: #d:4aa60ebc#
+车站模型作者: NOB

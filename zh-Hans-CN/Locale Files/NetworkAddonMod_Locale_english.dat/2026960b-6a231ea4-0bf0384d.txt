@@ -1,0 +1,2 @@
+To me, pavement is a wonderful thing - the hard smooth surface, the extreme heat on a summers day. If the default highways are not suitable anymore to carry the traffic, you might consider the <a href="#link_id#game.tool_plop_network(network_tool_types.DIRT_ROAD)">RHW</a> as an alternative.
+对我来说，人行道是种妙极了的东西——想想那些硬实光滑的表面，在夏日的阳光下被炙烤得滚烫。如果默认的高速公路面对交通流量再也不堪重负，RHW会是你不错的选择。

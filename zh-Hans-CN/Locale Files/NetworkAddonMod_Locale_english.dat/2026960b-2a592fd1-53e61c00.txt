@@ -1,0 +1,7 @@
+Straight underground route under custom surface #5
+Check http://sc4devotion.com/forums/
+for NAM - Customize FLUPs thread
+直行地下通道藏于自定义地砖 #5
+登录http://sc4devotion.com/forums/
+以获取NAM自定地下通道纹理
+按Home/End可切换地砖纹理和通道样式

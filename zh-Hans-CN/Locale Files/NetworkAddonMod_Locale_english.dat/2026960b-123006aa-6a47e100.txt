@@ -1,0 +1,5 @@
+Button contains Custom Interchanges
+Use the Home/End key to rotate the Custom Interchange & use the TAB key to cycle through the different types of Custom Interchanges
+自定义交流道
+按 Home/End 旋转交流道
+按 Tab 切换不同的交流道

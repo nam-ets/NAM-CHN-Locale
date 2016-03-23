@@ -1,0 +1,6 @@
+Ein Bahnhof im viktorianischen Stil für die Eisenbahnviadukte, orthogonale Version.
+
+Lotgröße: 1x2 (überhängendes Gebäude)
+Monatliche Kosten: #m:EA54D286#
+Passagierkapazität: #d:4aa60ebc#
+Erstellt von morifari.

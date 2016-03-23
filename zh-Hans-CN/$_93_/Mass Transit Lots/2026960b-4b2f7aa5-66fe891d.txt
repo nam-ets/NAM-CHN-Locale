@@ -1,0 +1,11 @@
+A station offering bus and subway service that can be placed at the side of any elevated road network (except highways).
+这个车站可以放置在任意高架道路路网（除去高速公路）旁，提供公交车站和地铁车站服务。
+
+Lot Size: 1x1 (overhanging building)
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by E-N (BriPizza).
+占地大小：1x1（仅包含车站建筑基部占地大小）
+维护开支：#m:EA54D286#
+乘客最大容量：#d:4aa60ebc#
+作者：E-N(BriPizza)

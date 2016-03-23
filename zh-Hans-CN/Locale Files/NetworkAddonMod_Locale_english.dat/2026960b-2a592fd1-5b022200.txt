@@ -1,0 +1,2 @@
+Avenue TuLEP-Type A1/A2 T-Intersection (Rotate for A1/A1 +-Intersection)
+大道TuLEP A1/A2类丁字路口 (旋转以获得A1/A1十字路口)

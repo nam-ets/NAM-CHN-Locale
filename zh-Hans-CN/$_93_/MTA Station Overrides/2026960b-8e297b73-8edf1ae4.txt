@@ -1,0 +1,6 @@
+An elevated rail station (free-standing version).
+
+Lot Size: 3x4 plus 1 overhanging tile
+Monthly Cost:  #m:EA54D286#  Bulldoze Cost:  #m:099AFACD#
+Passenger Capacity: #d:4aa60ebc#
+Created by morifari

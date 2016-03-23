@@ -1,0 +1,2 @@
+Curve - 90 degree road curve (2x2)
+弯道 - 90°道路弯道（2x2）

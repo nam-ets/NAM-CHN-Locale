@@ -1,0 +1,7 @@
+Monthly Cost:    #m:ea54d286#
+Passenger Capacity: #d:4aa60ebc#
+每月维护费用: #m:ea54d286#
+最大乘客容量: #d:4aa60ebc#
+
+Connector between subway and underground rail (Red Brick Ped Mall)
+地铁和地下铁路连接拼块（表层为红砖地面步行街）

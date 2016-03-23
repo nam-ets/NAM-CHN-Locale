@@ -1,0 +1,2 @@
+Tram-in-Road curve - Tram T-junction and rotated Road T-junction
+路中轻轨弯道 - 轻轨丁字平交，道路90度旋转丁字平交

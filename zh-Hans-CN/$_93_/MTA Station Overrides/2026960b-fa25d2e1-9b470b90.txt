@@ -1,0 +1,6 @@
+Gare d'Orsay, former terminus railway station in Paris with 4 dual tracks.
+
+Lot Size:7x16
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by xannepan.

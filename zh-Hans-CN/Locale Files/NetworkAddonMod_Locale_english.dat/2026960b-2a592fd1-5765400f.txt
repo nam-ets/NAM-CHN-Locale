@@ -1,0 +1,2 @@
+FLEXRamp Type E2
+Supports RHW-6S (L0 Only), RHW-8S (L0 Only)

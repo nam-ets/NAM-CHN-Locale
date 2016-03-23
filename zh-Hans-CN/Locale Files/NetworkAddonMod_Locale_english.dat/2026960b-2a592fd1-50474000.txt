@@ -1,0 +1,4 @@
+Rural Road - Straight section (1x1)
+Double solid center line end
+郊区道路 - 直行拼块（1x1）
+路中分隔线由双实线转为虚线

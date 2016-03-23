@@ -1,0 +1,6 @@
+Eine Straßenbahnhaltestelle, die für die Straßenbahn-in-Allee-Puzzleteile gedacht ist. Ebenfalls integriert ist eine Bushaltestelle.
+
+Lotgröße: 2x2
+Monatliche Kosten:  #m:EA54D286#
+Abrisskosten:  #m:099AFACD#
+Passagierkapazität: #d:4aa60ebc#

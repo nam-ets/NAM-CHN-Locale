@@ -1,0 +1,2 @@
+Road Tile Count x 2
+道路所占总格数 x2

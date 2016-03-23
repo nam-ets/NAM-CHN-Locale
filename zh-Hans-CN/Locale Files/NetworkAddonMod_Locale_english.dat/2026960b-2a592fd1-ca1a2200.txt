@@ -1,0 +1,4 @@
+Canal - Road under Canal edge (no boat passage)
+Use with FLUPs roads. Put canal - straight boat in the canal middle.
+运河 - 道路架于河岸（无航道）
+若要使用道路地下通道，请将运河 - 直行航道拼块放置于河道中间

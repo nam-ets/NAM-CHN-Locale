@@ -1,0 +1,4 @@
+Please reinstall the NAM Essentials!
+You need the Right Hand version of the NAM Controller to make this piece functional.
+请重新安装NAM Essentials！
+您需要右行版NAM控制器来运行本拼块。

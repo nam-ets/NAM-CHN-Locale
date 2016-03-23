@@ -1,0 +1,6 @@
+A terminus railway station in London with 8 covered dual tracks.
+
+Lot Size:6x17
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Ill Tonkso.

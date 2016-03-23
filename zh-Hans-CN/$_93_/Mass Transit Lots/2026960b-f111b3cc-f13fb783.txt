@@ -1,0 +1,11 @@
+This station connects high speed rail lines to local transportation networks like passenger rail, elevated rail and bus.
+这个车站可以把高速铁路和诸如客运铁路、高架轻轨和公交车的地区交通网络连接起来。
+
+Lot Size: 8x6
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by 3ddz.
+占地大小: 8x6
+维护开支: #m:EA54D286#
+最大乘客容量: #d:4aa60ebc#
+作者: 3ddz

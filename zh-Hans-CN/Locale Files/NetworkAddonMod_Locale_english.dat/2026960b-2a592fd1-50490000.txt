@@ -1,0 +1,2 @@
+Wide Radius Curve - 45 degree street (SC4 default) curve (2x4)
+多角度道路（FAR-3）- 正向道路平交于FAR-3（2x3）

@@ -1,0 +1,8 @@
+For building intersections between Rail Tunnel and Maxis Roadways.
+Button contains several different Pieces for Maxis Roadways.
+Use the Home/End key to rotate the Piece & use the TAB key to cycle through the different types of Rail Pieces.
+When the cursor changes from red to green, click to place.
+用于建设原版道路与铁路隧道的交汇处。
+这个按钮包含适用多种原版道路的拼块。
+使用Home/End键旋转拼块，使用Tab键循环显示不同种类的拼块。
+当光标由红变绿时，单击以建造。

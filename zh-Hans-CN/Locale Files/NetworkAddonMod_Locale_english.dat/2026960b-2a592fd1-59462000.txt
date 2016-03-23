@@ -1,0 +1,2 @@
+Curve - 90 degree one-way road curve (5x5)
+大半径弯道 - 单行道90度弯道拼块(5x5)

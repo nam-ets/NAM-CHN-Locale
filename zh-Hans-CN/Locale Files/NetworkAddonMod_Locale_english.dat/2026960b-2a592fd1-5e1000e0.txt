@@ -1,0 +1,8 @@
+Fractionally Angled Diamond for Avenue and FAMIS (Full Diamond, TuLEPless)
+[EXIT HALF, ROTATE FOR OTHER HALF]
+Place on top of Avenue or TLA-5, then connect with FAMIS; This piece does not connect to TuLEPs
+Connect this half with its other half, or combine with other TuLEPless half to create an asymmetrical crossing.
+大道与多角度MIS的多角度菱形立交（完整菱形，无TuLEP隧道）
+[出口一侧，旋转转向另一侧]
+放置在大道或者TLA-5上，接着连接多角度MIS；这个组件不与TuLEP隧道连接
+将这半边与它的另一半连接，或结合另一个无TuLEP隧道的半边来建造一个不对称跨线高架桥

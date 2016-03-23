@@ -1,0 +1,5 @@
+For building Tram-Avenue (= GroundLightRail / Avenue) - Dual Network Pieces.
+Button contains several different Pieces. Use the Home/End key to rotate a puzzle piece & use the TAB key to cycle through the different types of puzzle pieces. When the cursor changes from red to green, click to place.
+大道上轻轨
+按 Home/End 旋转拼块
+按 Tab 切换不同的拼块

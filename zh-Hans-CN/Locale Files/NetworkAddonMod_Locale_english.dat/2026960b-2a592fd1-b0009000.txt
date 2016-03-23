@@ -1,0 +1,4 @@
+Avenue over Avenue overpass.
+To build, center tiles must not intersect.
+高架大道跨越大道立交。
+建造时，地面大道对应的方格上不能有路口。

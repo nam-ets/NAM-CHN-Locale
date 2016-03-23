@@ -1,0 +1,12 @@
+A Victorian style elevated rail station, straight version.
+
+Lot Size: 1x4 (overhanging building)
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by morifari.
+正向维多利亚风格高架轻轨车站
+
+占地大小：1x4（建筑呈悬挂状态）
+每月维护经费： #m:EA54D286#
+乘客容量： #d:4aa60ebc#
+作者：Morifari

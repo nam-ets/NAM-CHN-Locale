@@ -1,0 +1,8 @@
+For building Network Widening Mod (NWM) Neighbor Connector Pieces
+Button contains Neighbor Connector Pieces for the TLA-5, RD-4 and RD-6
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of Puzzle Pieces
+When the cursor changes from red to green, click to place
+修建道路扩展MOD(NWM) 邻城接口拼块
+按钮包含以下拼块：、五车道转向车道大道，四车道及六车道道路邻城接口拼块
+使用 Home/End 键来旋转拼块 & 使用TAB键来切换不同类型的拼块
+当游标从红色变成绿色，点击以放置。

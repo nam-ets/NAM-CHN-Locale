@@ -1,0 +1,2 @@
+Road/EMIS T-Intersection IN (1x1)
+道路/高架(L2)MIS 丁字交叉口(MIS进道路方向)

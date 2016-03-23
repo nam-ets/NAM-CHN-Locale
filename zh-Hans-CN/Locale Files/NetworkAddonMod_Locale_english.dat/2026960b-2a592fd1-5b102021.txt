@@ -1,0 +1,2 @@
+TLA-5 TuLEP-Type AxGLR (Rotate for Avenue)
+TLA-5 TuLEP-A类平交地面轻轨 (旋转以获得大道)

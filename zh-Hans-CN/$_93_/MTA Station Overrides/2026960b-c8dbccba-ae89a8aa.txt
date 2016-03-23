@@ -1,0 +1,3 @@
+Single diagonal passenger railway station with one-sided pedestrian approach.
+Capacity: #d:4aa60ebc#;
+Monthly Cost:#m:ea54d286#.

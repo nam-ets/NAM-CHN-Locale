@@ -1,0 +1,4 @@
+2-lane Avenue (AVE-2) Starter Piece (Diagonal)
+Drag ROAD Network from End Stub
+两车道大道 起始拼块(对角)
+用道路拖拽

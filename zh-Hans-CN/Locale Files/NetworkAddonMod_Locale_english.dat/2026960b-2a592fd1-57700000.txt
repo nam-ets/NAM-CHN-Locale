@@ -1,0 +1,4 @@
+1-Level Flexible Onslope (FlexOST)
+Can be overridden to become onslope for other networks.  Default is L0 to L1 RHW-2
+一层高度(7.5m)自适应斜坡上转换道(FlexOST)
+能通过拖拽变成不同的RHW道路网络,默认为RHW-2 L0-L1转换道

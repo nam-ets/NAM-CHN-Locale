@@ -1,0 +1,8 @@
+For building Pedestrian Mall Tiles
+Button contains several different Pieces for building Pedestrian Mall Tiles & Pedestrian Footbridges.
+Use the Home/End key to rotate the Piece & use the TAB key to cycle through the different types of Pedestrian Pieces.
+NOTE: Ped Mall Tiles should not be used directly in front of Residential Zones where their zoning arrow is.
+用于建造步行街
+按 Home/End 旋转拼块
+按 Tab 切换拼块
+规划区域的箭头不能对着步行街

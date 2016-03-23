@@ -1,0 +1,2 @@
+TLA-5 TuLEP-Type AxDTR (Rotate for Avenue)
+TLA-5 TuLEP-A类平交铁路 (旋转以获得大道)

@@ -1,0 +1,2 @@
+Tram-in-Road transition to road, tram exits sidewards
+路中轻轨 - 转换为道路，轻轨L形转向

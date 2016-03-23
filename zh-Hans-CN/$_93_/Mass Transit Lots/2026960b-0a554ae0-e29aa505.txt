@@ -1,0 +1,2 @@
+Light Rail Station Tiles in #city#
+#city#内轻轨车站所占总格数

@@ -1,0 +1,4 @@
+Ground Light Rail straight and Loop - with gap
+First plop a Tram Station (with road connection), then plop this puzzle piece. Save, exit and re-enter the city to activate the station paths
+直行地面轻轨连接轻轨掉头线 - 带空缺
+首先扑通一个地面轻轨车站 (连接道路)，然后扑通这个拼块。保存，退出并重新载入城市以激活车站的path

@@ -1,0 +1,6 @@
+Perry railway station.
+
+Lot Size:4x7
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Jasoncw.

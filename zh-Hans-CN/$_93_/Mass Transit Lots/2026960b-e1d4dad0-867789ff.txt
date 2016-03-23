@@ -1,0 +1,7 @@
+Monthly Cost:    #m:ea54d286#
+Passenger Capacity: #d:4aa60ebc#
+每月维护费用: #m:ea54d286#
+最大乘客容量: #d:4aa60ebc#
+
+Connector between subway and underground rail (T-Road N-S)
+地铁和地下铁路连接拼块（表层为南北向道路丁字路口）

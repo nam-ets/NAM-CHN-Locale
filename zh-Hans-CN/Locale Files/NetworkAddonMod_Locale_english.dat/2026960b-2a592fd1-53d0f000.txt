@@ -1,0 +1,2 @@
+STR - Diagonal Filler Piece (1x1)
+单线铁路 - 对角填充拼块 (1x1)

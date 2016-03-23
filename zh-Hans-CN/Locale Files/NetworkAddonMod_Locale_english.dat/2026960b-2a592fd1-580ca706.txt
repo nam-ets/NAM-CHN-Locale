@@ -1,0 +1,4 @@
+Ground Light Rail Straight Puzzle Piece
+The arrows indicate the direction in which the GLR can be dragged.
+正向地面轻轨(可拖拽)起始拼块
+箭头所指的为地面轻轨可拖动的方向,拖动一定格后可摧毁此起始拼块。

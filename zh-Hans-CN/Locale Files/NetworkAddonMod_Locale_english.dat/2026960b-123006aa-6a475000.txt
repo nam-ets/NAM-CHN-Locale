@@ -1,0 +1,8 @@
+For building RealHighway Starter Pieces
+Button contains Starter Pieces to build RHW networks of varying widths and heights, up to 10 lanes (RHW-10S) and for certain networks, up to 30 meters high (L4)
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of RHW Starter Pieces
+When the cursor changes from red to green, click to place
+真实高速公路(RHW)起始拼块
+按钮包含了RHW的各种宽度和高度的起始拼块,宽达10车道(RHW-10S)以及对于部分道路高至30m(L4)
+使用 Home/End 键来旋转拼块 & 使用TAB键来切换不同的RHW起始拼块。
+当徽标从红色变为绿色时，点击以放置。

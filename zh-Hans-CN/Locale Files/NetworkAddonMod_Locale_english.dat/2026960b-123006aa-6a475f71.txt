@@ -1,0 +1,8 @@
+For building RHW Type F Ramp Interfaces (Fractional Angle Branch, exit only lane) 
+Button contains Type F Ramp Interface Pieces for building interchanges with the RHW
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of Ramp Interface Pieces
+When the cursor changes from red to green, click to place
+修建真实高速公路 F型匝道(多角度匝道且有一条车道为出/入口专用道)
+按键包含了F型匝道拼块用来修建真实高速公路立交
+使用 Home/End键来旋转拼块&使用TAB/Shift+TAB键来转换不同的拼块
+当光标由红转绿时,点击以放置。

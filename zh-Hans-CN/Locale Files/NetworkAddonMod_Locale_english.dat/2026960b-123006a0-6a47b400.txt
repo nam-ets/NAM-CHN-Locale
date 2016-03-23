@@ -1,0 +1,11 @@
+For creating flexible tram underpasses (FLUPs)
+Do not use for underground rail!
+Use the Home/End key to rotate the overpass, 
+& use the TAB key to cycle through the different types of overpasses
+When the cursor changes from red to green, click to place
+First build the surface network, then plop these pieces ontop
+修建地面轻轨地下通道(FLUPs)
+不要用作地下铁路！
+使用 Home/End 键来旋转拼块 & 使用TAB键来切换不同类型的拼块
+当游标从红色变成绿色，点击以放置。
+首先放置地面上的交通拼块，然后再放置这里的拼块。

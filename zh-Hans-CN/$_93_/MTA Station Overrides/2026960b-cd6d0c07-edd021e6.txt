@@ -1,0 +1,6 @@
+Medium Passenger Railway Station with Parking.
+
+Lot Size: 2x6
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Marrast.

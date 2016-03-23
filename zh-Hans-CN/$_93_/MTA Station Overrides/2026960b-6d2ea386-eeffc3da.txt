@@ -1,0 +1,6 @@
+Sao Paulo's main railway station.
+
+Lot Size: 5x10
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by frogface.

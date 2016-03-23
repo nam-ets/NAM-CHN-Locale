@@ -1,0 +1,11 @@
+Modern overhanging El Rail station; can cross virtually any network.  Includes bus and optional subway service.
+跨越式现代高架轻轨车站，基本上可以跨越任意路网，此车站包括公交车站和地铁车站的服务能力。
+
+Lot Size: 1x1 (overhanging building)
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Xyloxadoria.
+占地大小：（仅包含车站建筑基部占地大小）
+维护开支：#m:EA54D286#
+乘客最大容量：#d:4aa60ebc#
+作者：Xyloxadoria

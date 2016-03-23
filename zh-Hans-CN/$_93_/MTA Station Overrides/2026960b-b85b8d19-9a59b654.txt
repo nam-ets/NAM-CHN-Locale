@@ -1,0 +1,6 @@
+Ein Großstadtbahnhof mit 7 Bahnsteigen sowie einigen Abstellgleisen. Der Bahnhof kann von Güterzügen passiert werden und fungiert auch als Güterbahnhof. Der Bahnhof bietet zudem Bus-, und U-Bahnfunktionalität.
+
+Lotgröße: 1x2
+Monatliche Kosten:  #m:EA54D286#
+Passagierkapazität: #d:4aa60ebc#
+Erstellt von logan123456

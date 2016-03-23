@@ -1,0 +1,6 @@
+Moderne Viadukt-Eisenbahn-Haltestelle, kann über anderen Verkehrswegen platziert werden. Verwende den Lot für die andere Seite, um die Station zu komplettieren.
+
+Lotgröße: 1x1 (überhängendes Gebäude)
+Monatliche Kosten: #m:EA54D286#
+Passagierkapazität: #d:4aa60ebc#
+Erstellt von Xyloxadoria.

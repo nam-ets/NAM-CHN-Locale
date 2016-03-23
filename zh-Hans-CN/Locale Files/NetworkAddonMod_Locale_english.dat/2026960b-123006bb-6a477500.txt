@@ -1,0 +1,2 @@
+Wide Radius Curves (for Road, One-Way Road, Avenue, and Street)
+大半径弯道（用于道路、单行道、大道和街道）

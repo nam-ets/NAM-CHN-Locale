@@ -1,0 +1,6 @@
+A modern GLR station modelled after the Cercanias (Spanish suburban rail) stations.
+
+Lot Size: 1x5
+Monthly Cost:  #m:EA54D286#, Bulldoze Cost:  #m:099AFACD#
+Passenger Capacity: #d:4aa60ebc#
+Created by JEC

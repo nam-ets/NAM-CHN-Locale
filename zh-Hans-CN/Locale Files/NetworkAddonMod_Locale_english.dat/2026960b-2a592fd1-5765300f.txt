@@ -1,0 +1,2 @@
+FLEXRamp Type D2
+Supports RHW-6S (L0-L4), RHW-8S (L0-L2)

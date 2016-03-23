@@ -1,0 +1,2 @@
+Wide Radius Curve - 90 degree street (SC4 default) curve (4x4)
+大半径弯道 - 90°街道（SC4默认样式）弯道（4x4）

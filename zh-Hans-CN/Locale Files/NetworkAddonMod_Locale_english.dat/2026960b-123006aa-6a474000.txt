@@ -1,0 +1,6 @@
+Use these pieces to build Single Track Rail, part of the RAM. 
+The first piece is the starter piece.
+Use the Home/End key to rotate the Piece & use the TAB key to cycle through the different STR pieces.
+使用这些拼块来修筑单线铁路(铁路扩展MOD的一部分)。
+第一个拼块为起始拼块。
+使用 Home/End 键来旋转拼块 & 使用 TAB 键来切换不同的单线铁路拼块

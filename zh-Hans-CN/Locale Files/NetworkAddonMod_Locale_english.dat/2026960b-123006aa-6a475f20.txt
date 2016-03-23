@@ -1,0 +1,8 @@
+For building Fractionally Angled RealHighway pieces
+Button contains straight pieces and curves to pieces to build Fractionally Angled RealHighway (FARHWs)
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of FARHW Pieces
+When the cursor changes from red to green, click to place.
+建设多角度真实高速公路(FARHW)邻城连接拼块
+按钮包含了建造FARHW的直行及弯道拼块
+使用Home/End键以旋转拼块 & 使用TAB键去选择不同种类的FARHW拼块
+当指针从红色转变成绿色,点击以放置。

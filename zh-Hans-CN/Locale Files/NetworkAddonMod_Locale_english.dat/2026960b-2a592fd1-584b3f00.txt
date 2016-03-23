@@ -1,0 +1,4 @@
+Transition ramp tram-in-road - tram under road
+Rotate for other ramps
+路中轻轨 - 路下轻轨转换出入口
+旋转以获得其它出入口

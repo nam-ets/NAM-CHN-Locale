@@ -1,0 +1,7 @@
+For building Elevated Road Viaducts 7.5 meters tall
+Button contains several different Puzzle Pieces for Road
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of puzzle pieces
+When the cursor changes from red to green, click to place
+7.5m道路高架桥
+按 Home/End 旋转拼块
+按 Tab 切换拼块

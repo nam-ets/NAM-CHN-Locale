@@ -1,0 +1,7 @@
+For building Avenue Roundabouts, Avenue Y-Stacks and other Avenue Intersections
+Button contains several different Puzzle Pieces for Avenues
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of Avenue Puzzle Pieces
+When the cursor changes from red to green, click to place
+用于建造大道环岛、大道Y形路口和其他大道路口
+按 Home/End 旋转拼块
+按 Tab 切换拼块

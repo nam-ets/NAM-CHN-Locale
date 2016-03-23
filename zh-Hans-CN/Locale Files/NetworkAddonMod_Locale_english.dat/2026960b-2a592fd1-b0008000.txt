@@ -1,0 +1,2 @@
+OneWayRoad over OneWayRoad overpass. For best results, build on top of an existing OneWayRoad section. In order to build this overpass, the centre piece must not intersect with another onewayroad
+单行道跨越单行道立交。为了获得最佳的效果，请在已有的单行道上建造。建造这个立交时，地面单行道相应方格不能和其他单行道相交。

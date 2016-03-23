@@ -1,0 +1,6 @@
+For building ElevatedRail over Avenue/RD-4 Pieces.
+Use the Home/End key to rotate the Piece & use the TAB key to cycle through the different types of ElevatedRail Pieces. 
+When the cursor changes from red to green, click to place. The construction lot vanishes automatically. Use the Road Tool to connect the network and to build intersections.
+高架轻轨跨越大道与四车道道路组件的说明
+使用Home与End键来旋转拼块，使用Tab键在不同的高架轻轨跨越大道与四车道道路组件之间循环切换
+当光标由红色变为绿色时，点击左键来放置。建造后该LOT会自动消失。使用道路工具来连接以及建设交叉口。

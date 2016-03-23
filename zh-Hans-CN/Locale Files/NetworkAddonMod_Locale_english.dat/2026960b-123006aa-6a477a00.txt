@@ -1,0 +1,11 @@
+For creating semi-flexible underpasses for Road, One-Way Road, Avenue, Street, T-RAM, and Pedmalls
+DO NOT USE FOR UNDERGROUND RAIL
+Button contains several different Puzzle Pieces for various networks
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of puzzle pieces
+When the cursor changes from red to green, click to place
+
+NOTE: First build the surface network, then plop these pieces on top
+用于创建道路隧道、单行道隧道、大道隧道、街道隧道、地面轻轨和人行道
+切勿用于地下铁路
+按 Home/End 旋转拼块
+按 Tab 切换拼块

@@ -1,0 +1,6 @@
+Surbiton is an Art Deco railway station built in 1937.
+
+Lot Size:4x8
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Ill Tonkso.

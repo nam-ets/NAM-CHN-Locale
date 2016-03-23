@@ -1,0 +1,2 @@
+Tram-in-Road - Curve with Road and street junctions
+路中轻轨 - 道路丁字路口，一侧连接街道，轻轨L形转向

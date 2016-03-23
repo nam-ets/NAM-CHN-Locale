@@ -1,0 +1,6 @@
+Puzzle Pieces to build a ground level extension of the Elevated Rail network for Light Rail/Trams.
+Use the Home/End key to rotate a puzzle piece & use the TAB key to cycle through the different types of Ground Light Rail puzzle pieces.
+When the cursor changes from red to green, click to place
+用于建造地面版高架轻轨网络的轻轨/电车的起始拼块。
+按 Home/End 旋转拼块
+按 Tab 切换拼块

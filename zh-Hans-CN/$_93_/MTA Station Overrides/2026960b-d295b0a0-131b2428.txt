@@ -1,0 +1,6 @@
+A large terminus railway station with 8 covered dual tracks.
+
+Lot Size:11x14
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Ill Tonkso.

@@ -1,0 +1,6 @@
+A huge railway station with 7 platforms and some sidings. Freight trains can pass the station. The station also functions as an freight station. In addition the station offers bus and subway functionality, as well as parking.
+
+Lot Size: 25x14
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by logan123456

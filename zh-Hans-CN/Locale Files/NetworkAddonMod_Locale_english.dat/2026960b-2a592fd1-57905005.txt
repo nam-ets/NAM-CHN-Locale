@@ -1,0 +1,5 @@
+Multi Radius Curve (MRC) 45 Deg R2
+Default Curve: L0 RHW-2
+This curve can be overridden by the following networks: MIS (L0-L2), RHW-4 (L0-L2), and RHW-6S (L0-L2)
+THIS PIECE SUPPORTS SLOPE TOLERANCE
+THIS PIECE DOES NOT SUPPORT FLYOVER CAPABILITIES; DO NOT USE AS FLEXFLY

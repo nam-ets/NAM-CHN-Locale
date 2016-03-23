@@ -1,0 +1,4 @@
+QuickChange Parclo Inner Loop (L0 RHW, L1 Surface)
+Overrideable partial plop interchange, constructs inner loop of a Partial Cloverleaf (Parclo) interchange
+自适应四分之一苜蓿叶立交内圈（RHW于L0穿过，立交桥面在L1）
+可覆盖扑通在RHW上的半个立交，建造四分之一个苜蓿叶立交的内圈

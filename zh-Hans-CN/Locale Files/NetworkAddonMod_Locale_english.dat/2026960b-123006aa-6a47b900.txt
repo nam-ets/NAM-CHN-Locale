@@ -1,0 +1,7 @@
+For building Elevated Rail overpasses over Sunken Highways, Elevated Networks and Viaducts.
+These puzzle pieces are designed so that you may plop them first or you may plop them on existing networks.
+Use the Home/End key to rotate the Piece & use the TAB key to cycle through the different types of High Elevated Rail Pieces. 
+When the cursor changes from red to green, click to place.
+高架铁路跨域下沉高速、高架网络和高架桥
+按 Home/End 旋转拼块
+按 Tab 切换不同的拼块

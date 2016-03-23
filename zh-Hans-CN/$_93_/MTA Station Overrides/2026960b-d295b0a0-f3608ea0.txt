@@ -1,0 +1,6 @@
+Central station with 1 set of through tracks and 2 sets of terminus tracks. Includes parking.
+
+Lot Size:5x7
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Ill Tonkso.

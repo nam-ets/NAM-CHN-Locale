@@ -1,0 +1,1 @@
+Bauen von Starter-Puzzleteilen für den Street Addon Mod (SAM). Benutze die Pos1-/Ende-Taste, um die Puzzleteile zu rotieren und die TAB-Taste, um zwischen den verschiedenen Typen zu wählen. Wenn der rote Mauszeiger grün wird, klicke mit der linken Maustaste.

@@ -1,0 +1,11 @@
+An overhanging monorial station. Includes bus and optional subway service. Use this first, then the other side lot, then drag monorail through.
+一座跨越式单轨铁路车站，包含公交车站和可选的地铁车站服务。先把车站建筑放好，然后再放置填充拼块，最后拖拽单轨铁路穿过车站。
+
+Lot Size: 1x1 (overhanging building)
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Xyloxadoria.
+占地大小：1x1（仅计车站基部实际占地大小）
+维护开支：#m:ea54d286#
+乘客最大容量：#d:4aa60ebc#
+作者：Xyloxadoria

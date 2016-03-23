@@ -1,0 +1,4 @@
+Rural Road - FAR straight section (2x3)
+Double solid centerline end
+郊区道路 - 多角度道路直行拼块（2x3）
+路中分隔线由双实线转为虚线

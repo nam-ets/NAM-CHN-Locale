@@ -1,0 +1,12 @@
+Overhanging Viaduct Rail Station
+
+Lot Size: 1x4 (plus one tile overhang)
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Morifari
+跨越式高架铁路车站
+
+占地面积：1x4（外加一格被车站建筑跨越）
+每月维护经费： #m:EA54D286#
+乘客容量： #d:4aa60ebc#
+作者：Morifari

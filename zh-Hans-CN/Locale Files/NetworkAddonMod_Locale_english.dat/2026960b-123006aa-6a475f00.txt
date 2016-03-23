@@ -1,0 +1,10 @@
+For building Fractionally Angled RealHighway Intersections and Transitions
+Button contains pieces to build FARHW intersection pieces for interfacing FARHWs with surface networks and FARHW transitions for transitioning between different FARHW widths
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of FARHW Pieces
+When the cursor changes from red to green, click to place.
+NOTE: Most intersections require the use of TuLEPs.
+多角度真实高速公路(FARHW)立交/转换道拼块
+按钮包含了FARHW的道路，包括不同的FARHW的转换道和不同的宽度
+使用 Home/End 键来旋转拼块 & 使用TAB键来切换不同的FARHW拼块
+当徽标从红色变为绿色时，点击以放置。
+提示:很多拼块需要道路渠化拼块(TuLEPs)的支援。

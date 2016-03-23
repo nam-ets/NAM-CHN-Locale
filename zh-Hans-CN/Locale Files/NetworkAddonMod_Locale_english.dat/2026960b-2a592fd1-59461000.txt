@@ -1,0 +1,2 @@
+Curve - 45 degree one-way road curve (2x4)
+大半径弯道 - 单行道45度弯道拼块(2x4)

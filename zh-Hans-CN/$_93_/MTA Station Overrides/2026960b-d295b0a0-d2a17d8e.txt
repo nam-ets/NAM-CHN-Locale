@@ -1,0 +1,6 @@
+Baron Cross is a large junction station in the Brenntia Borough of Bromyard.
+
+Lot Size:5x9
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Ill Tonkso.

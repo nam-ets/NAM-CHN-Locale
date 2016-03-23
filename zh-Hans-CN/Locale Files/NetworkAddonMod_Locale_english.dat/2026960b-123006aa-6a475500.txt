@@ -1,0 +1,4 @@
+For building DEPRECATED ERHW-over-RHW Diagonal Overpasses
+Button contains pieces to build diagonal overpasses with Elevated RHWs over other RHWs that aren't possible through draggable means.
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of ERHW-over-RHW Diagonal Pieces
+When the cursor changes from red to green, click to place.<DEPRECIATED>

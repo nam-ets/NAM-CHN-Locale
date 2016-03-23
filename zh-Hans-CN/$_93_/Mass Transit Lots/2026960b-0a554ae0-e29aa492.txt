@@ -1,0 +1,2 @@
+Street Tile Count x 2
+街道所占总格数 x2

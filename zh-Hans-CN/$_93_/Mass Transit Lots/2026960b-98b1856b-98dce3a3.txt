@@ -1,0 +1,12 @@
+This is a station for Moonlinght's Bullet Train Mod; it includes bus and subway service.
+
+Lot Size: 1x4
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Moonlinght.
+新干线车站，附带公交和地铁服务。
+
+占地: 1x4
+每月费用: #m:EA54D286#
+乘客容量: #d:4aa60ebc#
+作者: Moonlinght.

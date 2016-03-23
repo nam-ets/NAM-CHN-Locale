@@ -1,0 +1,8 @@
+Monthly Cost:    #m:ea54d286#
+维护开支： #m:ea54d286#
+
+Passenger Capacity:  #d:4aa60ebc#
+乘客最大容量：#d:4aa60ebc#
+
+Elevated rail, bus, and subway station.
+高架轻轨、公共汽车和地铁车站。

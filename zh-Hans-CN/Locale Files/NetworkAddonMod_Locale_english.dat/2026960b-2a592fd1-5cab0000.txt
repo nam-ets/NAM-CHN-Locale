@@ -1,0 +1,3 @@
+OLD FLEXFly EMIS-1 (15M) Type A1
+Only supports ground networks
+Rotate for Type A2

@@ -1,0 +1,1 @@
+#game.g_street_tile_count#

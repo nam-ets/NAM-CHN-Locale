@@ -1,0 +1,4 @@
+Canal - Oneway Road over Canal edge (no boat passage)
+Oneway- plop in either direction
+运河 - 单行道架于运河（正向航道）
+单行道 - 无方向性

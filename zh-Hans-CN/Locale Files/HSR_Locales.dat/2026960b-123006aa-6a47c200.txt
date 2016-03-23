@@ -1,0 +1,10 @@
+For utilizing the High Speed Rail Project (HSRP)
+Button contains Starter, Filler and Overpass Puzzle Pieces for Ground High Speed Rail (GHSR)
+GHSR is a ground level extension of High Speed Rail (HSR)
+Use the Home/End key to rotate the Puzzle Piece
+When the cursor changes from red to green, click to place
+使用高速铁路计划组件(HSRP)
+按钮内包括起始拼块，填充拼块和为地面高速铁路(GHSR)准备的跨越拼块。
+地面高速铁路是地面(0m)上的高速铁路
+使用 Home/End 键来旋转拼块。
+当徽标从红变绿，点击以放置。

@@ -1,0 +1,4 @@
+For building RealHighway QuickChanges
+Button contains flexible RHW interchange segments.  Drag appropriate networks through to convert base ramp to match, and combine to easily create a full interchange.
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of Cosmetic Pieces
+When the cursor changes from red to green, click to place

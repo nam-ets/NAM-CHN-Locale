@@ -1,0 +1,2 @@
+Tram-on-Street junction - orthogonal and diagonal
+街道上轻轨平交口 - 正向街道上轻轨 包含对角街道上轻轨分岔

@@ -1,0 +1,4 @@
+2-Level Flexible Height Transition (FlexHT)
+Can be overridden to become onslope for other networks.  Default is L0 to L2 RHW-2
+二层高度(15m)自适应高度转换道(FlexHT)
+能通过拖拽变成不同的RHW道路网络,默认为RHW-2 L0-L2转换道

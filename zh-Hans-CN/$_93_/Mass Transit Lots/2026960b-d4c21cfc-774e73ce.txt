@@ -1,0 +1,9 @@
+Put this in the overhanging column of the bus rapid transit station.
+请把这个物件放在公交快速运输车站的悬挂网格上。
+
+Lot Size: 1x1
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+占地大小：1x1
+维护开支：#m:EA54D286#
+乘客最大容量：#d:4aa60ebc#

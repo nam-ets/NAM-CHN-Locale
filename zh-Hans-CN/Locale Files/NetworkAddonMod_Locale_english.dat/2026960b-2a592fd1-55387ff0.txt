@@ -1,0 +1,2 @@
+Construction Piece for building diagonal streets. Click to place. The construction tile will automatically disappear when placed.
+用于建造斜向街道的施工拼块。单击以建造。拼块放置后施工区块将会自动消失。

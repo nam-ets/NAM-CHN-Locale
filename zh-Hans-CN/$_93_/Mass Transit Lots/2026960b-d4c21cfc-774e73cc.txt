@@ -1,0 +1,9 @@
+Put this in the overhanging column of the El Rail over Road station after building the surrounding network.
+当周边路网建造完成后，请把这个物件放置在跨越式高架轻轨跨越道路车站上。
+
+Lot Size: 1x1
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+占地大小：1x1
+维护开支：#m:EA54D286#
+乘客最大容量：#d:4aa60ebc#

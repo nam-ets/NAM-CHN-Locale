@@ -1,0 +1,6 @@
+Calatrava's expansion and redefiniton of the Stadelhofen Railway Station.
+
+Lot Size: 6x8
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by JEC.

@@ -1,0 +1,8 @@
+For building Fractionally Angled RealHighway Ramp Interfaces
+Button contains pieces to build different FARHW Ramp Interfaces: The C1, F1, C2, F2, and C3 Ramp Interfaces
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of FARHW Pieces
+When the cursor changes from red to green, click to place.
+多角度真实高速公路(FARHW)匝道
+按钮包含了FARHW的匝道:C1,F1,C2,F2,C3型
+使用 Home/End 键来旋转拼块 & 使用TAB键来切换不同的FARHW拼块
+当徽标从红色变为绿色时，点击以放置。

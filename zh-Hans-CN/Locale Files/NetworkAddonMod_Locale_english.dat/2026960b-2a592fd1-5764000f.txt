@@ -1,0 +1,2 @@
+FLEXRamp Type A2
+Supports RHW-6S (L0-L4), RHW-8C (L0 Only), RHW-10S (L0 Only) (no RHW-8S support due to overhang)

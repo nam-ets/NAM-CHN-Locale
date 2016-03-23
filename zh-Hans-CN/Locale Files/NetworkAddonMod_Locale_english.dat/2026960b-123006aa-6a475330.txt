@@ -1,0 +1,4 @@
+For building RealHighway FLEX Height Transition Pieces
+Button contains pieces to transition between RHW networks of different heights.  Pieces begin as RHW-2 transitions, and dragging another RHW network into them will convert them to fit.
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of Transition Pieces
+When the cursor changes from red to green, click to place

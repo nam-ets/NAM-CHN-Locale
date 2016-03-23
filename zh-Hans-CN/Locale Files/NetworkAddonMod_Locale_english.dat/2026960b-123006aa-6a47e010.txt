@@ -1,0 +1,7 @@
+Elevated Highway
+Button contains Single-Sided Perpendicular Ramps for Elevated Highway
+Use the Home/End key to rotate the Ramps, & use the TAB key to cycle through the different types of Ramps
+When the cursor changes from red to green, click to place
+高架高速的单面垂直坡道
+按 Home/End 旋转坡道
+按 Tab 切换不同的坡道

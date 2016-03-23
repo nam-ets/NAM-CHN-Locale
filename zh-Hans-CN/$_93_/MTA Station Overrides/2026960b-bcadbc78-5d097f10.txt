@@ -1,0 +1,6 @@
+Railway station with 4 elevated heavy rail lines and bus and subway service, based on Berlin Hauptbahnhoff.
+
+Lot Size: 14x8
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by rajfurke.

@@ -1,0 +1,6 @@
+Can be used for all networks.
+Plop this lot on a flat area, then drag a road through the lot. If you drag through one side, it will raise up to 8m on one side. If you drag through both sides, it will raise the lot 8m, providing a level area for a raised network of your choice. This is fully compatible with all slope mods.
+This lot is particularly useful for building bridges over buddybud's underpass lots.
+此工具可以用于任何类型的路网。
+请在平整地面上放置此工具，然后用道路拖拽穿过这个工具。如果仅从工具的一侧工具一侧拖拽道路，工具将会使穿过的一侧提升12米；如果用道路拖拽贯穿这个工具，工具将会使整个方格提升12米，为建造抬升路网提供一个平整的区域。此工具跟任何缓坡插件均无兼容性问题。
+这个工具尤其适合于为建造跨越由buddybud制作的地下通道的高架桥提供适合的高度差。

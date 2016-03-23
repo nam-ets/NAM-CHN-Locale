@@ -1,0 +1,8 @@
+For utilizing the Street Addon Mod (SAM)
+Button contains Starter Puzzle Pieces for Street Addon Mod (SAM)
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of SAM Starter Puzzle Pieces
+When the cursor changes from red to green, click to place
+此选项用于建造街道扩展MOD(SAM)的街道。
+选项内包括街道扩展MOD(SAM)各式街道的起始拼块。
+如需转动拼块方向，请按Home键或者End键；如需切换不同种类街道的起始拼块，请按Tab键。
+当游标从红色变为绿色后，单击鼠标左键以放置拼块。

@@ -1,0 +1,6 @@
+Large railway station.
+
+Lot Size: 2x4
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Jasoncw.

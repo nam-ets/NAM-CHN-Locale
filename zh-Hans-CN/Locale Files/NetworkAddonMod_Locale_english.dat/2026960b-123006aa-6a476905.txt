@@ -1,0 +1,2 @@
+Plop one of these puzzle pieces on a flat area. It will raise or lower the terrain, and then destroy itself, providing a level area for a raised network of your choice. This is fully compatible with all slope mods.
+把此选项内任意一个工具放置在一片平整的地面上。这些工具会提升或者降低地面的海拔高度，放置后工具会被自动拆除，提供一片平整的区域，用以建造你想要建造的抬升路网。此工具跟任何缓坡插件均无兼容性问题。

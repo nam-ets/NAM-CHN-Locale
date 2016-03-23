@@ -1,0 +1,5 @@
+For building RealHighway Static Height Transition Pieces - DEPRECATED
+Button contains pieces to transition between RHW networks of different heights (Height Transitions and OnSlope Transitions); Also contains DDRHW Transitions)
+All functionality here has been duplicated with the FLEX Height Transitions, and as such, this button is DEPRECATED.
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of Transition Pieces
+When the cursor changes from red to green, click to place

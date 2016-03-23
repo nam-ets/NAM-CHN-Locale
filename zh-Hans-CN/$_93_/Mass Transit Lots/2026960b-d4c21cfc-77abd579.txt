@@ -1,0 +1,11 @@
+To use, place on existing diagonal monorail. Drag monorail through after plopping. Can be used with Moonlinght's Bullet Train Mod, too.
+如需使用这个车站，请把此车站放置到现存的45度斜向单轨铁路上。在放置后，请使用单轨铁路拖拽通过车站建筑。可以与Moonlinght制作的新干线MOD同时使用。
+
+Lot Size: 1x2 (overhanging building)
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Xyloxadoria.
+占地大小：1x2（仅包括车站底层占地空间）
+维护开支：#m:EA54D286#
+乘客最大容量：#d:4aa60ebc#
+作者：Xyloxadoria

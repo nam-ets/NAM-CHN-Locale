@@ -1,0 +1,6 @@
+Eine Hochbahnstation im viktorianischen Stil, gerade Version.
+
+Lotgröße: 1x4 (überhängendes Gebäude)
+Monatliche Kosten: #m:EA54D286#
+Passagierkapazität: #d:4aa60ebc#
+Erstellt von morifari.

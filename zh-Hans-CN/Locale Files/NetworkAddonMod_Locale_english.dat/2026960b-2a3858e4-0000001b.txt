@@ -1,0 +1,6 @@
+Cost to Build:  #m:49cac341# per segment
+建造花费：每段#m:49cac341#
+Monthly Cost: #m:8a94eee0#. 
+每月花费：#m:8a94eee0#
+This tool can be used to create a modular highway network in a variety of widths.  By default, it produces a 2-lane network (RHW-2), and with the aid of starter pieces can create highways up to 10 lanes, as well as interchange ramps with the Modular Interchange System (MIS)
+本工具可用于建设一个不同宽度的模块化高速路网。路网的默认道路为双车道道路（RHW-2），使用不同的起始拼块可以建造至多10车道的高速公路，使用模块立交系统（MIS）可建设立交匝道。

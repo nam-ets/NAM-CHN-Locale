@@ -1,0 +1,8 @@
+For building intersections between Rail Tunnel and Tramways.
+Button contains several different Pieces for Tramways.
+Use the Home/End key to rotate the Piece & use the TAB key to cycle through the different types of Rail Pieces.
+When the cursor changes from red to green, click to place.
+修建地面轻轨和地下铁路的立体交叉
+按钮包含了一些不同的交叉拼块
+使用 Home/End 键以旋转拼块 & 使用 TAB 键来转换不同的交叉拼块
+当光标由红色转为绿色时,点击以放置。

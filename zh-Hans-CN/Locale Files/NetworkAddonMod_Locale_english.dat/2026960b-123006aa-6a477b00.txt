@@ -1,0 +1,8 @@
+For building Network Widening Mod (NWM) Starter Pieces
+Button contains Starter Pieces for the 3, 5 and 7-lane Turning Lane Avenues (TLA-3,5,7), 2 and 6-lane Avenues (AVE-2,6), 3-lane Asymmetrical Road (ARD-3), 4 and 6-lane Roads RD-4,6) and 1, 3, 4 and 5-lane One-Way Roads (OWR-1,3,4,5)
+Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of Puzzle Pieces
+When the cursor changes from red to green, click to place
+修建道路扩展MOD(NWM) 起始拼块
+按钮包含以下拼块：三车道、五车道及七车道转向车道大道，二车道及六车道大道，三车道道路，四车道及六车道道路，以及单车道、三车道、四车道及五车道单行道起始拼块
+使用 Home/End 键来旋转拼块 & 使用TAB键来切换不同类型的拼块
+当游标从红色变成绿色，点击以放置。

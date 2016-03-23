@@ -1,0 +1,11 @@
+An overhanging HSR station. Includes bus and optional subway service. Use this first, then the other side lot, then drag monorail through lot edges. Inner arch should be built from HSR starter and/or puzzle pieces.
+这是一座跨越式高架高速铁路车站，此车站附带有公交车站和地铁车站的服务能力。先放置此车站，然后放置填充拼块，最后用单轨铁路拖拽通过车站建筑。内侧轨道应该使用高架高速铁路起始拼块和/或普通拼块建造。
+
+Lot Size: 1x1 (overhanging building)
+Monthly Cost: #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Xyloxadoria.
+占地大小：1x1（仅含车站建筑底层占地大小）
+维护开支：#m:EA54D286#
+乘客最大容量：#d:4aa60ebc#
+作者：Xyloxadoria

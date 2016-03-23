@@ -1,0 +1,6 @@
+Small railway station.
+
+Lot Size: 1x2
+Monthly Cost:  #m:EA54D286#
+Passenger Capacity: #d:4aa60ebc#
+Created by Jasoncw.
