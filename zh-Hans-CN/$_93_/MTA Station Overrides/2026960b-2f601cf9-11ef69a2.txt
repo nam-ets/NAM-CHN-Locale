@@ -1,6 +1,12 @@
 A modern EL-Rail station with integrated bus stop.
+带有公交站的一体化现代高架轻轨车站。
 
 Lot Size: 1x3 plus 1 overhanging tile
 Monthly Cost:  #m:EA54D286#  Bulldoze Cost:  #m:099AFACD#
 Passenger Capacity: #d:4aa60ebc#
 Created by TWrecks
+占地大小：1x3，悬挂部分的大小是一个方格。
+每月维护费用：#m:EA54D286#
+拆除费用：#m:099AFACD#
+乘客容量：#d:4aa60ebc#
+作者：TWrecks
