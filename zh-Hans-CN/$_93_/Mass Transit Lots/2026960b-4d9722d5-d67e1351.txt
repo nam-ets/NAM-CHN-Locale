@@ -1,11 +1,11 @@
 A Tram and Bus Stop for the Tram-in-Road. Click inside with oneway to activate the station.
-一个用于路中轻轨的轻轨与公交车站，用单行道工具在车站中部单击以启用车站。
+一个用于路中轻轨的轻轨与公交车站。用单行道工具在车站中部单击，以启用车站。
 
 Lot Size: 1x1
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Chrisim.
 占地大小：1x1
-维护开支：#m:EA54D286#
-乘客最大容量：#d:4aa60ebc#
+每月维护费用：#m:EA54D286#
+最大乘客容量：#d:4aa60ebc#
 作者：Chrisim

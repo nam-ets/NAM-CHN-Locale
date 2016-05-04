@@ -1,2 +1,2 @@
 Average Monorail Utilization
-单轨铁路平均使用率
+单轨平均使用率

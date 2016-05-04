@@ -1,2 +1,2 @@
 Bus Filter for L2 RHW-2
-BRT交通过滤拼块 用于L2 RHW2
+BRT交通过滤拼块，用于L2 RHW2

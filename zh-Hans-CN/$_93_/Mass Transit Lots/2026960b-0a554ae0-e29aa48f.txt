@@ -1,2 +1,2 @@
 Reserve Capacity
-预留容量
+最大容量
