@@ -1,6 +1,6 @@
 Ground High Speed Rail Station with Bus Service
-地面高速铁路车站,包含公交车和地铁服务。
+地面高速铁路车站，包含公交车和地铁服务。
 占地大小: 1x6
-月花费: #m:EA54D286#
-载客量: #d:4aa60ebc#
-由Xyloxadoria制作.
+每月维护费用: #m:EA54D286#
+最大乘客容量: #d:4aa60ebc#
+由Xyloxadoria制作。

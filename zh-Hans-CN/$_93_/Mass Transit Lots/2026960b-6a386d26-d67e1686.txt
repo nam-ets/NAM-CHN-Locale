@@ -1,2 +1,2 @@
 SFBT Tram Stop on Road 1x2
-SFBT 路中轻轨站 1x2
+SFBT制作的路面轻轨车站，占地大小为1x2。

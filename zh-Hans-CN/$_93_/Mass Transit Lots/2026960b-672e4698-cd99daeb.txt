@@ -1,6 +1,6 @@
 A station offering service for any 15m network (except elevated roads), in addition to bus and optional subway service.
-一座提供L2 轨道交通(不包括BRT)的车站,包括公交车和地铁服务。
-占地大小: 3x1 (跨越式车站)
-月花费: #m:EA54D286#
-载客量: #d:4aa60ebc#
+一座提供L2 轨道交通（不包括高架道路）的车站，同时提供公交车和地铁服务。
+占地大小: 3x1 (车站有悬空部分)
+每月维护费用: #m:EA54D286#
+最大乘客容量: #d:4aa60ebc#
 由E-N (BriPizza)制作.

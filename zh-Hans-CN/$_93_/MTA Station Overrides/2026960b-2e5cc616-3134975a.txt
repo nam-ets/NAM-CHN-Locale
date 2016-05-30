@@ -1,6 +1,11 @@
 Manta railway station.
+曼塔火车站
 
 Lot Size:1x3
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Equinox.
+占地大小：1x3
+每月维护费用：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+作者：Equinox

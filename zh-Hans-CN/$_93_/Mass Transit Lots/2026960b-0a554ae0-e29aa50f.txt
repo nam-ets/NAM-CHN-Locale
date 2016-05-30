@@ -1,2 +1,2 @@
 Monorail Station Tiles in #city#
-#city#内单轨铁路车站所占总格数
+#city#内单轨车站所占总格数

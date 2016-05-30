@@ -6,6 +6,6 @@ Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by E-N (BriPizza).
 占地大小：3x1（仅包含车站建筑基部占地大小）
-维护开支：#m:EA54D286
+每月维护费用：#m:EA54D286
 乘客最大容量：#d:4aa60ebc
 作者：E-N(BriPizza)

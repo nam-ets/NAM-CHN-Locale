@@ -1,6 +1,6 @@
 A station offering any combination of single-width 0m and 15m networks, in addition to bus and optional subway service.
-一座提供L0/L2 轨道交通及BRT的车站,包括公交车和地铁服务。
+一座提供L0和L2轨道交通服及BRT服务的车站，包括公交车和地铁服务。
 占地大小: 1x1 (跨越式车站)
-月花费: #m:EA54D286#
-载客量: #d:4aa60ebc#
+每月维护费用: #m:EA54D286#
+最大乘客容量: #d:4aa60ebc#
 由E-N (BriPizza)制作.

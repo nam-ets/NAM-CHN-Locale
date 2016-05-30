@@ -6,7 +6,7 @@ Passenger Capacity: #d:4aa60ebc#
 Created by Morifari
 跨越式高速铁路车站
 
-占地大小：1x4（外加一格被车站建筑跨越）
+占地大小：1x4（悬空部分的大小为一个方格）
 每月维护费用： #m:EA54D286#
 乘客容量： #d:4aa60ebc#
 作者：Morifari

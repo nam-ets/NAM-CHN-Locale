@@ -1,6 +1,6 @@
 A Tram and Bus Stop for the Tram-in-Road. Drag oneway to activate the station.
 一座路中轻轨兼公交车站,请用单行道拖动来激活此车站。
-占地大小: 1x3
-月花费:  #m:EA54D286#
-载客量: #d:4aa60ebc#
-由Chrisim制作.
+占地大小：1x3
+每月维护费用：#m:EA54D286#
+最大乘客容量：#d:4aa60ebc#
+由Chrisim制作。
