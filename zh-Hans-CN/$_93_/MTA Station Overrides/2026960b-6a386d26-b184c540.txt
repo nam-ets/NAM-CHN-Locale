@@ -1,1 +1,2 @@
 1x4 Medium Railway Station
+中型火车站，占地大小为1x4

@@ -1,6 +1,11 @@
 A huge railway station with 7 platforms and some sidings. Freight trains can pass the station. The station also functions as an freight station. In addition the station offers bus and subway functionality, as well as parking.
+一个带有七个站台和一些侧线的巨型火车站。货运火车可以通过此车站。这个车站还可以作为货运火车站使用。除此之外，这个车站还整合了公交车站、地铁站和停车场的功能。
 
 Lot Size: 25x14
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by logan123456
+占地大小：25x14
+每月维护费用：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+由logan123456制作。

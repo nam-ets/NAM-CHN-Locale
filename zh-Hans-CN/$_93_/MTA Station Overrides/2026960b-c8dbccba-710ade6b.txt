@@ -1,7 +1,13 @@
 This lot has a freight rail line on it, be sure to attach it to an existing rail network.
+这个地块上有一条货运铁路线，请务必将它连接到已有的铁路网络上。
 
 Handles #d:4aa60ebc# tons of freight.
 Lot Size : 6x4.
 Monthly Cost :  #m:ea54d286#
 Bulldoze Cost :  #m:099afacd#
 Made by SimGoober
+可处理#d:4aa60ebc#吨运量的货物。
+占地大小：6x4.
+每月维护费用：#m:ea54d286#
+拆除费用：#m:099afacd#
+由SimGoober制作。

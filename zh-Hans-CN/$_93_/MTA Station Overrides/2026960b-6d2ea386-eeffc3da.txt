@@ -1,6 +1,11 @@
 Sao Paulo's main railway station.
+位于圣保罗的主要火车站
 
 Lot Size: 5x10
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by frogface.
+占地大小：5x10
+每月维护费用：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+由frogface制作。

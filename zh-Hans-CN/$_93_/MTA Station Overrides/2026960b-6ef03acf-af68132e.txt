@@ -1,6 +1,12 @@
 El Rail Station with a light red roof.
+带有淡红色屋顶的高架轻轨车站。
 
 Lot Size: 2x3
 Monthly Cost:  #m:EA54D286#  Bulldoze Cost:  #m:099AFACD#
 Passenger Capacity: #d:4aa60ebc#
 Created by Ill Tonkso
+占地大小：2x3
+每月维护费用：#m:EA54D286# 
+拆除费用：#m:099AFACD#
+乘客容量：#d:4aa60ebc#
+由Ill Tonkso制作。

@@ -1,3 +1,7 @@
 Single diagonal passenger railway station with one-sided pedestrian approach.
+有一对轨道的客运火车站，乘客只能从车站的一侧进出车站。
+
 Capacity: #d:4aa60ebc#;
 Monthly Cost:#m:ea54d286#.
+乘客容量：#d:4aa60ebc#；
+每月维护费用：#m:ea54d286#。

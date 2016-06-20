@@ -1,6 +1,11 @@
 Large railway station with 3 pairs of tracks.
+有三对轨道的大型火车站。
 
 Lot Size:3x5
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by r102
+占地大小：3x5
+每月维护费用：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+由r102制作。
