@@ -2,6 +2,7 @@ Can be used to dig holes for:
 - Rail tunnels
 - Buddybud's on-slope underpasses
 Plop this lot on a flat area, then drag a road through the lot. If you drag through one side, it will dig a hole on one side. If you drag through both sides, it will dig down and create a level area, useful for sunken networks. This is fully compatible with all slope mods.
+--------------------
 可以为下列隧道或组件提供所需的下沉量：
 - 铁路隧道
 - 由 Buddybud 制作的斜面上地下通道

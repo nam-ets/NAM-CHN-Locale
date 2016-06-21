@@ -2,6 +2,7 @@ Can be used to dig holes for:
 - Rail tunnels
 - Avenue tunnels
 Plop this lot on a flat area, then drag a road through the lot. If you drag through one side, it will dig a hole on one side. If you drag through both sides, it will dig down and create a level area, useful for sunken networks. This hole digger lot can be used to make deeper rail tunnels if needed. This is fully compatible with all slope mods.
+-----------------------
 可以为建造下列隧道提供所需深度的下沉量：
 - 铁路隧道
 - 大道隧道

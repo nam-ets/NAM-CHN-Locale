@@ -4,6 +4,7 @@ Can be used to dig holes for:
 - Highway tunnels
 Additionally, this can be used to create an embankment for the NAM Highway On-Slope piece over a sunken network of your choice.
 Plop this lot on a flat area, then drag a road through the lot. If you drag through one side, it will dig a hole on one side. If you drag through both sides, it will dig down and create a level area, useful for sunken networks. For two-tile wide networks, place two lots next to each other, facing the same direction, then drag the road through both lots. This can be used to create deeper highway tunnels. This is fully compatible with all slope mods.
+----------------------------------
 可以为建造下列隧道提供所需的深度：
 - 道路隧道
 - 单行道隧道
