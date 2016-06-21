@@ -1,11 +1,12 @@
 Gare du Nord, large terminus railway station in Paris with 12 dual tracks.
-坐落于巴黎的火车北站，是一个有12对轨道的大型末端火车站。
 
 Lot Size:14x20
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by xannepan
+------
+坐落于巴黎的火车北站，是一个有12对轨道的大型末端火车站。
 占地大小：14x20
-每月维护费用：#m:EA54D286#
+维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#
 作者：xannepan

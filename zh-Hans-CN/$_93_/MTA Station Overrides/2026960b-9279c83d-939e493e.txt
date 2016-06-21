@@ -5,8 +5,18 @@ Lot Size: 1x3
 Monthly Cost:  #m:EA54D286#  Bulldoze Cost:  #m:099AFACD#
 Passenger Capacity: #d:4aa60ebc#
 Created by gshmails
+<<<<<<< HEAD
 占地大小：1x3
 每月维护费用：#m:EA54D286#
 拆除费用：#m:099AFACD#
 乘客容量：#d:4aa60ebc#
 由gshmails制作。
+=======
+------
+适用于市区的地面轻轨车站。
+占地大小：1x3
+维护开支：#m:EA54D286#
+拆除费用：#m:099AFACD#
+乘客容量：#d:4aa60ebc#
+制作：gshmails
+>>>>>>> refs/heads/master

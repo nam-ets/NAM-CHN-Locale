@@ -5,7 +5,16 @@ Lot Size:6x17
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Ill Tonkso.
+<<<<<<< HEAD
 占地大小：6x17
 每月维护费用：#m:EA54D286#
 维护费用：#d:4aa60ebc#
 由Ill Tonkso制作。
+=======
+------
+一个坐落于伦敦、有八对带屋顶的轨道的火车总站。
+占地大小：6x17
+维护开支：#m:EA54D286#
+维护费用：#d:4aa60ebc#
+制作：Ill Tonkso
+>>>>>>> refs/heads/master

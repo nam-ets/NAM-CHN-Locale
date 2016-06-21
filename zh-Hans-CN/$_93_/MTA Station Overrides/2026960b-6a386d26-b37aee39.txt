@@ -1,2 +1,7 @@
 Historic Tram Station for GLR-in-Avenue
+<<<<<<< HEAD
 历史性的大道中轻轨车站
+=======
+------
+历史性的大道中轻轨车站
+>>>>>>> refs/heads/master

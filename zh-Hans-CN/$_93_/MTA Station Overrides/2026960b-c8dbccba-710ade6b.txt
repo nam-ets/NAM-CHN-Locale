@@ -6,8 +6,18 @@ Lot Size : 6x4.
 Monthly Cost :  #m:ea54d286#
 Bulldoze Cost :  #m:099afacd#
 Made by SimGoober
+<<<<<<< HEAD
 可处理#d:4aa60ebc#吨运量的货物。
 占地大小：6x4.
 每月维护费用：#m:ea54d286#
 拆除费用：#m:099afacd#
 由SimGoober制作。
+=======
+------
+这个地块上有一条货运铁路线，请务必将它连接到已有的铁路网络上。
+可处理#d:4aa60ebc#吨运量的货物。
+占地大小：6x4.
+维护开支：#m:ea54d286#
+拆除费用：#m:099afacd#
+制作：SimGoober
+>>>>>>> refs/heads/master

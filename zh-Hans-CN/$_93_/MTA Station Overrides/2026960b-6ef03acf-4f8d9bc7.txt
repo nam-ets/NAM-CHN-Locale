@@ -5,7 +5,16 @@ Lot Size: 4x7
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Ill Tonkso.
+<<<<<<< HEAD
 占地大小：4x7
 每月维护费用：#m:EA54D286#
 乘客容量：#d:4aa60ebc#
 由Ill Tonkso制作。
+=======
+------
+一座带有两对轨道和一个停车场的中型英式车站。
+占地大小：4x7
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：Ill Tonkso
+>>>>>>> refs/heads/master

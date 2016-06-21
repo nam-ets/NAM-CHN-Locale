@@ -5,7 +5,16 @@ Lot Size:9x19
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Ill Tonkso.
+<<<<<<< HEAD
 占地大小：9x19
 每月维护费用：#m:EA54D286#
 乘客容量：#d:4aa60ebc#
 由Ill Tonkso制作。
+=======
+------
+一个坐落于伦敦带有停车场的大型哥特复兴风格火车站。
+占地大小：9x19
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：Ill Tonkso
+>>>>>>> refs/heads/master

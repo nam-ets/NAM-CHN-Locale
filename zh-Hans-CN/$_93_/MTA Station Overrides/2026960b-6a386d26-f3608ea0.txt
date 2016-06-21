@@ -1,2 +1,7 @@
 Langstrath Central Railway Station
+<<<<<<< HEAD
 廊斯特拉斯中央火车站
+=======
+------
+廊斯特拉斯中央火车站
+>>>>>>> refs/heads/master
