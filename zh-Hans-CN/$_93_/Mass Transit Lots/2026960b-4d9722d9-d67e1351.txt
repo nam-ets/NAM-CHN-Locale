@@ -1,6 +1,0 @@
-Ein Straßenbahn- und Bushaltestelle auf der Straße. Aktiviere durch Reinklicken mit der Einbahnstraße.
-
-Lotgröße: 1x1
-Monatliche Kosten:  #m:EA54D286#
-Passagierkapazität: #d:4aa60ebc#
-Erstellt von Chrisim.

@@ -1,5 +1,0 @@
-Platziere diesen Lot in die überhängende Säule der modernen Monorail-Station.
-
-Lotgröße: 1x1
-Monatliche Kosten: #m:EA54D286#
-Passagierkapazität: #d:4aa60ebc#

@@ -1,5 +1,5 @@
 Overhanging El Rail over Road station; can cross virtually any network.  Includes bus and optional subway service.
-跨越式高架轻轨横越道路车站，基本上可以跨越任意路网。此车站附带有公交车站和地铁车站的服务能力。
+悬空式高架轻轨横越道路车站，基本上可以跨越任意路网。此车站附带有公交车站和地铁车站的服务能力。
 
 Lot Size: 1x1 (overhanging building)
 Monthly Cost: #m:EA54D286#

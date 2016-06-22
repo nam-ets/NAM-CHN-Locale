@@ -1,6 +1,0 @@
-Bahnhof für erhöhte Hochgeschwindigkeits-Strecken, mit integriertem Bus- und U-Bahn-Anschluss.
-
-Lotgröße: 1x6
-Monatliche Kosten: #m:EA54D286#
-Passagierkapazität: #d:4aa60ebc#
-Erstellt von Xyloxadoria.

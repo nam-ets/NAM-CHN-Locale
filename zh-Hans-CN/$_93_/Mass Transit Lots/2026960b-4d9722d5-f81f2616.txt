@@ -1,6 +1,7 @@
 A simple Tram and Bus Stop for the Tram-on-Street. Click inside with oneway to activate the station.
-一座简单的街道上轻轨车站和公交车站。用单行道点击车站内部，来激活此车站。
+-----------
+一座简单的街道上轻轨车站和公交车站。用单行道工具点击车站内部来激活此车站。
 占地大小：1x1
-每月维护费用：#m:EA54D286#
-最大乘客容量：#d:4aa60ebc#
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
 由Chrisim制作.

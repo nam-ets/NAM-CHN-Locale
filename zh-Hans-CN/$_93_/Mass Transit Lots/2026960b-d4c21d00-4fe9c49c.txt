@@ -1,6 +1,0 @@
-Moderne Haltestelle für die Hochbahn-über-Landstraße-Puzzleteile.
-
-Lotgröße: 1x1 (überhängendes Gebäude)
-Monatliche Kosten: #m:EA54D286#
-Passagierkapazität: #d:4aa60ebc#
-Erstellt von Xyloxadoria.

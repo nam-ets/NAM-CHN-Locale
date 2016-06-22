@@ -1,9 +1,10 @@
 Put this on in the overhanging column of the Modern Monorail Station.
-把这个物品放置到现代单轨铁路车站的跨越式格位上。
 
 Lot Size: 1x1
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
+-----------
+把这个物品放置到现代风格单轨铁路车站的悬空格位上。
 占地大小：1x1
 维护开支：#m:ea542d286
-乘客最大容量：#d:4aa60ebc#
+乘客容量：#d:4aa60ebc#

@@ -1,11 +1,12 @@
 Diagonal tram-in-avenue stop. Also integrated is a bus station.
 Drag diagonal oneway to activate the station.
-斜向大道中轻轨车站，附带有公交车站功能。用单行道工具斜向拖拽通过车站建筑，以激活车站。
 
 Lot Size: 2x3
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Denteil model created by NOB.
+------------
+斜向大道中轻轨车站，附带有公交车站功能。用单行道工具斜向拖拽通过车站建筑，以激活车站。
 占地大小：2x3
 维护开支：#m:EA54D286#
 乘客最大容量：#d:4aa60ebc#

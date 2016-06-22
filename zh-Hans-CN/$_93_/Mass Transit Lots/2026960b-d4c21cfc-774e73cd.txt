@@ -1,9 +1,10 @@
 Put this on in the overhanging column of the Overhanging HSR Station.
-把这个物件放在跨越式高架高速铁路车站的悬空格网上。
 
 Lot Size: 1x1
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
+-----------
+把这个物件放在悬空式高架高速铁路车站的悬空格网上。
 占地大小：1x1
 维护开支：#m:EA54D286#
 乘客最大容量：#d:4aa60ebc#

@@ -1,5 +1,5 @@
 Modern overhanging El Rail station; can cross virtually any network.  Includes bus and optional subway service.
-跨越式现代高架轻轨车站，基本上可以跨越任意路网，此车站包括公交车站和地铁车站的服务能力。
+悬空式现代高架轻轨车站，基本上可以跨越任意路网，此车站包括公交车站和地铁车站的服务能力。
 
 Lot Size: 1x1 (overhanging building)
 Monthly Cost: #m:EA54D286#
