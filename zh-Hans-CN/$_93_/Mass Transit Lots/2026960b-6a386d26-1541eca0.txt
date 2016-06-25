@@ -1,2 +1,3 @@
 Diagonal Tram-Avenue Station
-对角大道中轻轨站
+-----------
+对角大道中轻轨车站

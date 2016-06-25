@@ -4,9 +4,9 @@ Lot size: 1x3
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Chrisim.
+----------
 如需激活此转换拼块，请拖拽高架轻轨到此拼块上。
-
 占地大小：1x3
 维护开支：#m:EA54D286#
-乘客容量： #d:4aa60ebc#
+乘客容量：#d:4aa60ebc#
 作者：Chrisim

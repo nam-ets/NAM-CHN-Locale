@@ -5,8 +5,8 @@ Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by E-N (BriPizza).
 -----------
-这个车站可以放置在任意高架道路路网（除去高速公路）旁，提供公交车站和地铁车站服务。
+此车站可以放置在任意高架道路路网（除去高速公路）旁，提供公交车站和地铁车站服务。
 占地大小：1x1（建筑有悬空部分）
 维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#
-作者：E-N(BriPizza)
+作者：E-N (BriPizza)

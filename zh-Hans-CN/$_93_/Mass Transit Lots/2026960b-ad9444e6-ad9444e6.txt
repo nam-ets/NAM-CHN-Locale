@@ -1,2 +1,3 @@
 Ninja Boulevard Station
-大道车站，作者Ninja
+-----------
+大道车站，由Ninja制作。

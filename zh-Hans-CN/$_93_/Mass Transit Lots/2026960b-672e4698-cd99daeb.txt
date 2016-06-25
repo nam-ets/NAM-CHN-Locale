@@ -1,6 +1,7 @@
 A station offering service for any 15m network (except elevated roads), in addition to bus and optional subway service.
-一座提供L2 轨道交通（不包括高架道路）的车站，同时提供公交车和地铁服务。
-占地大小: 3x1 (车站有悬空部分)
-维护开支: #m:EA54D286#
-乘客容量: #d:4aa60ebc#
-由E-N (BriPizza)制作.
+-----------
+一座提供L2轨道交通（不包括高架道路）的车站，同时提供公交车和地铁服务。
+占地大小：3x1 (车站有悬空部分)
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：E-N (BriPizza)
