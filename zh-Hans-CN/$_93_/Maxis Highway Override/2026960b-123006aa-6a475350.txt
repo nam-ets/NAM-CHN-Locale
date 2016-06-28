@@ -2,7 +2,8 @@ For building transitions between different networks and heights.
 Button contains components for both Ground Highway and Elevated Highway.
 Use the Home/End key to rotate the Parallel Ramps & use the TAB key to cycle between different setups.
 When the cursor changes from red to green, click to place.
-此工具用于建造不同类型高速公路的转换拼块。
-这个选项包括多种适用于地面高速公路以及高架高速公路的拼块。
-如需旋转拼块方向，请按Home或End键；如需切换不同拼块，请按Tab键。
-当游标从红色变为绿色后，单击鼠标左键以放置物件。
+-----------
+此选项用于建造不同类型高速公路的转换拼块。
+选项内包括多种适用于地面高速公路以及高架高速公路的组件。
+如需旋转组件方向，请按Home或End键；如需切换不同组件，请按Tab键。
+当光标从红色变为绿色后，单击鼠标左键以放置组件。
