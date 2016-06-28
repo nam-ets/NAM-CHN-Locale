@@ -1,11 +1,12 @@
 Overhanging El Rail over Road station; can cross virtually any network.  Includes bus and optional subway service.
-悬空式高架轻轨横越道路车站，基本上可以跨越任意路网。此车站附带有公交车站和地铁车站的服务能力。
 
 Lot Size: 1x1 (overhanging building)
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Xyloxadoria.
-占地大小：1x1（仅包含车站建筑底层占地大小）
+-----------
+悬空式高架轻轨横越道路车站，可以跨越绝大多数路网类型，同时提供公交和地铁车站服务。
+占地大小：1x1（建筑有悬空部分）
 维护开支：#m:EA54D286#
-乘客最大容量：#d:4aa60ebc#
+乘客容量：#d:4aa60ebc#
 作者：Xyloxadoria

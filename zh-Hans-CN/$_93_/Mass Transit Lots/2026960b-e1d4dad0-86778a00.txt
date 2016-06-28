@@ -4,5 +4,5 @@ Passenger Capacity: #d:4aa60ebc#
 Connector between subway and underground rail (T-Road E-W)
 -----------
 地铁和地下铁路连接拼块（表层为东西向道路丁字路口）
-维护开支: #m:ea54d286#
-乘客容量: #d:4aa60ebc#
+维护开支：#m:ea54d286#
+乘客容量：#d:4aa60ebc#

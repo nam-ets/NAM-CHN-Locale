@@ -4,5 +4,5 @@ Passenger Capacity:  #d:4aa60ebc#
 Elevated rail, bus, and subway station.
 -----------
 乘客容量：#d:4aa60ebc#
-维护开支： #m:ea54d286#
-高架轻轨、公共汽车和地铁车站。
+维护开支：#m:ea54d286#
+高架轻轨、公交和地铁车站。

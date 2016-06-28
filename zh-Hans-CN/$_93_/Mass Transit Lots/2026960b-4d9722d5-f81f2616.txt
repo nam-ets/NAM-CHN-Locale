@@ -4,4 +4,4 @@ A simple Tram and Bus Stop for the Tram-on-Street. Click inside with oneway to a
 占地大小：1x1
 维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#
-由Chrisim制作.
+制作：Chrisim
