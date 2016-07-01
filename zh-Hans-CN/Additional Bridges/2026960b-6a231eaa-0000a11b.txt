@@ -1,2 +1,3 @@
 Compact Regular RHW-6S Bridge
-RHW-6S桥梁 - 常规紧凑型桥梁
+-----------
+RHW-6S桥 - 紧凑型常规桥梁
