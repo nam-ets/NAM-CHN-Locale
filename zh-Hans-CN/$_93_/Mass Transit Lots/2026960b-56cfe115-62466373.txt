@@ -1,2 +1,3 @@
 BriPizza Norikae Station
-BriPizza制作的日式换乘车站
+-----------
+日式换乘车站，由BriPizza制作。

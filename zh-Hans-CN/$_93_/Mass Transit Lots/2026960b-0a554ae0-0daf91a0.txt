@@ -4,9 +4,9 @@ Lot Size: 3x1
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Brenda_Xne.
-现代风格车站，适用于单轨或新干线，同时提供公交车站以及可选的地铁车站服务。
-
+-----------
+适用于单轨或新干线的现代风格车站，同时提供公交车站以及可选的地铁车站服务。
 占地大小：3x1
-每月维护经费： #m:EA54D286#
-乘客容量： #d:4aa60ebc#
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
 作者：Brenda_Xne

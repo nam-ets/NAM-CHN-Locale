@@ -1,1 +1,0 @@
-#game.g_monorail_station_count#

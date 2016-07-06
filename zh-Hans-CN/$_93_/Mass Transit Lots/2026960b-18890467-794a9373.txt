@@ -1,11 +1,12 @@
 A station offering service for any 15m network, in addition to bus and optional subway service.
-此车站为任意15米轨道交通路网提供车站服务，附带公交车站和地铁车站服务能力。
 
 Lot Size: 3x1 (overhanging network beds)
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by E-N (BriPizza).
-占地大小：3x1（仅包含车站建筑基部占地大小）
-每月维护费用：#m:EA54D286
-乘客最大容量：#d:4aa60ebc
-作者：E-N(BriPizza)
+---------------
+此车站可为任意15米轨道交通路网提供车站服务，附带公交车站和地铁车站服务能力。
+占地大小：3x1（建筑有悬空部分）
+维护开支：#m:EA54D286
+乘客容量：#d:4aa60ebc
+作者：E-N (BriPizza)

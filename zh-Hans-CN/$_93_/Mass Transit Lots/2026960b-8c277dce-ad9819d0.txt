@@ -4,9 +4,9 @@ Lot Size: 1x1
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by ralphaelninja.
-附带停车场、公交站、地铁站、客运火车站和货运火车站一切功能的交通亭。
-
-占地: 1x1
-每月费用: #m:EA54D286#
-乘客容量: #d:4aa60ebc#
-作者: ralphaelninja
+-----------
+带有停车场、公交站、地铁站、客运火车站和货运火车站等一切设施的交通亭。
+占地大小：1x1
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+作者：ralphaelninja

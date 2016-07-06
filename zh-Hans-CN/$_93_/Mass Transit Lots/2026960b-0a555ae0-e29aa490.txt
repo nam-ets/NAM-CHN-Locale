@@ -1,1 +1,0 @@
-#game.g_bus_station_count#

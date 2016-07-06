@@ -1,6 +1,0 @@
-Platziere diesen Lot auf einer diagonalen Hochbahn-Strecke. Ziehe nach dem Bauen mit dem Hochbahn-Werkzeug, um die Station zu aktivieren.
-
-Lotgröße: 1x2 (überhängendes Gebäude)
-Monatliche Kosten: #m:EA54D286#
-Passagierkapazität: #d:4aa60ebc#
-Erstellt von Xyloxadoria.

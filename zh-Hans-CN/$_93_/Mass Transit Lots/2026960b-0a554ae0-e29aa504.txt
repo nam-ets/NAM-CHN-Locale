@@ -1,2 +1,3 @@
 Congested Subway Tiles
-地铁拥堵总格数
+-----------
+拥堵地铁总格数

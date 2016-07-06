@@ -1,11 +1,12 @@
 Overhanging viaduct rail station, with bus and subway service.  Use with Viaduct Rail Other Side lot.
-跨越式高架铁路车站，并带有公交车站和地铁车站的服务能力。请与高架铁路填充拼块一起使用。
 
 Lot Size: 1x1 (overhanging building)
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Xyloxadoria.
-占地大小： 1x1（仅计车站底部占用部分）
-维护开支： #m:EA54D286#
-乘客最大容量： #d:4aa60ebc#
-作者: Xyloxadoria
+-----------
+悬空式高架铁路车站，同时提供公交和地铁车站服务。请与高架铁路填充拼块结合使用。
+占地大小：1x1（建筑有悬空部分）
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+作者：Xyloxadoria

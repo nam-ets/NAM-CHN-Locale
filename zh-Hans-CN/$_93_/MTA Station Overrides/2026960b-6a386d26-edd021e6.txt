@@ -1,1 +1,7 @@
 Marrast Passenger Railway Station
+<<<<<<< HEAD
+客运火车站，由Marrast制作
+=======
+------
+客运火车站，由Marrast制作。
+>>>>>>> refs/heads/master

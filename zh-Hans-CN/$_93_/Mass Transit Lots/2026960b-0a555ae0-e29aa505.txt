@@ -1,1 +1,0 @@
-#game.g_elevated_station_count#

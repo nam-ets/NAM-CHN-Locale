@@ -1,6 +1,23 @@
 A GLR station with a central platform.
+带有一个岛式站台的地面轻轨车站。
 
 Lot Size: 3x5
 Monthly Cost:  #m:EA54D286#, Bulldoze Cost:  #m:099AFACD#
 Passenger Capacity: #d:4aa60ebc#
+<<<<<<< HEAD
 Created by GoaSkin
+占地大小：3x5
+每月维护费用：#m:EA54D286#
+拆除费用：#m:099AFACD#
+乘客容量：#d:4aa60ebc#
+由GoaSkin制作
+=======
+Created by GoaSki
+------
+带有一个岛式站台的地面轻轨车站。
+占地大小：3x5
+维护开支：#m:EA54D286#
+拆除费用：#m:099AFACD#
+乘客容量：#d:4aa60ebc#
+制作：GoaSkin
+>>>>>>> refs/heads/master

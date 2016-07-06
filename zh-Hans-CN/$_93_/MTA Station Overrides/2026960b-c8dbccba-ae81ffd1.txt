@@ -1,6 +1,20 @@
 Single diagonal passenger railway station with pedestrian approach on both sides of the station.
+有一对轨道的客运火车站，乘客可从车站前后两侧进出车站。
 
 Lot Size: 1x2
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Marrast.
+<<<<<<< HEAD
+占地大小：1x2
+每月维护费用：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+由Marrast制作。
+=======
+------
+有一对轨道的客运火车站，乘客可从车站前后两侧进出车站。
+占地大小：1x2
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：Marrast
+>>>>>>> refs/heads/master

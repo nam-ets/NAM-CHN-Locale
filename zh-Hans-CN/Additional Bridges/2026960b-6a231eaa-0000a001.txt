@@ -1,2 +1,3 @@
 CSX Kwanyoni Bridge
-Kwanyoni桥梁，作者CSX
+-----------
+Kwanyoni桥梁，由CSX团队制作。

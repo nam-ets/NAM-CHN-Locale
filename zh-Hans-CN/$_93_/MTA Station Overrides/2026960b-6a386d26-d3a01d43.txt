@@ -1,1 +1,7 @@
 Shmails Euro Style GLR Station #3
+<<<<<<< HEAD
+欧洲风格地面轻轨车站 #3，由Shmails制作
+=======
+------
+欧洲风格地面轻轨车站 #3，由Shmails制作。
+>>>>>>> refs/heads/master

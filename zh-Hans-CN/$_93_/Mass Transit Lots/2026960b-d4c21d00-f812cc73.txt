@@ -1,6 +1,0 @@
-Hochbahn-Station mit Bus- und U-Bahn-Anschluss für die Hochbahn-Puzzleteile mit doppelter Höhe.
-
-Lotgröße: 1x4
-Monatliche Kosten: #m:EA54D286#
-Passagierkapazität: #d:4aa60ebc#
-Erstellt von Xyloxadoria.

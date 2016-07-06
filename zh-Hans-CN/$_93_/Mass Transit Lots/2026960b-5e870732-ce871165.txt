@@ -1,6 +1,7 @@
 Elevated High Speed Rail Station with Bus and Subway Service
-高架高速铁路车站，包含公交车和地铁服务。
-占地大小: 1x6
-每月维护费用: #m:EA54D286#
-最大乘客容量: #d:4aa60ebc#
-由Xyloxadoria制作。
+-----------
+高架高速铁路车站，同时提供公交和地铁车站服务。
+占地大小：1x6
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：Xyloxadoria

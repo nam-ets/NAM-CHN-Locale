@@ -1,6 +1,20 @@
 Modern railway station with glass panel roof over the tracks.
+带有覆盖轨道的玻璃屋顶的现代风格火车站
 
 Lot Size: 1x4
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Ill Tonkso.
+<<<<<<< HEAD
+占地大小：1x4
+每月维护费用：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+由Ill Tonkso制作。
+=======
+------
+带有覆盖轨道的玻璃屋顶的现代风格火车站
+占地大小：1x4
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：Ill Tonkso
+>>>>>>> refs/heads/master

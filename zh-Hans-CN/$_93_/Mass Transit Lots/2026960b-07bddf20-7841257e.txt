@@ -1,6 +1,0 @@
-Aktiviere durch Ziehen mit der Hochbahn.
-
-Lotgröße: 1x3
-Monatliche Kosten: #m:EA54D286#
-Passagierkapazität: #d:4aa60ebc#
-Erstellt von Chrisim.

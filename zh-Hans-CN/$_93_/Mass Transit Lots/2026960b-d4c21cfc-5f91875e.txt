@@ -1,9 +1,10 @@
 This lot can be put in any straight section of L2 RHW-2 to prevent any vehicles other than buses from passing through.
-此物件可以放置在任意一处正向L2层RHW-2上，以防止除了公交之外的汽车驶过这个路段。
 
 Lot Size: 1x1
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
+-----------
+此物件可以放置在任意一处正向L2 RHW-2上，以仅允许公交车经过此路段。
 占地大小：1x1
 维护开支：#m:EA54D286#
-乘客最大容量：#d:4aa60ebc#
+乘客容量：#d:4aa60ebc#

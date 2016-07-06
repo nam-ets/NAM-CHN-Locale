@@ -1,13 +1,14 @@
 Orthogonal tram-in-avenue station. Also integrated is a bus station.
 Drag oneway to activate the station.
-正向大道中轻轨车站，同时整合公交车站的功能。
-用单行道工具拖拽通过车站以激活车站功能。
 
 Lot Size: 2x2
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Dentei model created by NOB.
+-----------
+正向大道中轻轨车站，同时整合公交车站的功能。
+用单行道工具拖拽通过车站，以激活此车站。
 占地大小：2x2
-每月维护费用：#m:EA54D286#
-最大乘客容量：#d:4aa60ebc#
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
 作者：NOB
