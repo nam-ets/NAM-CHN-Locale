@@ -5,7 +5,7 @@ Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Brenda_Xne.
 -----------
-带有高架轻轨站、公交站、地铁站和停车站等功能的现代风格车站。
+集高架轻轨站、公交站、地铁站和停车站于一身的现代风格车站。
 占地大小：1x6
 维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#

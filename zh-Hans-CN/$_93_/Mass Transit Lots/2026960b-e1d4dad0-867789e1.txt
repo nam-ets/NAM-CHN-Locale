@@ -1,3 +1,3 @@
 Subway to Underground Rail Connector (Cobblestone Ped Mall)
 -----------
-地铁到地下铁路转换拼块（表层路面为鹅卵石地面步行街）
+地铁到地下铁路转换拼块（地面为鹅卵石地面步行街）

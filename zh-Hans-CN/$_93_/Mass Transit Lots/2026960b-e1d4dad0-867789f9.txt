@@ -3,6 +3,6 @@ Passenger Capacity: #d:4aa60ebc#
 
 Connector between subway and underground rail (Cement Ped Mall)
 -----------
-地铁和地下铁路连接拼块（表层为混凝土地面步行街）
+地铁和地下铁路连接拼块（地面层为混凝土地面步行街）
 维护开支：#m:ea54d286#
 乘客容量：#d:4aa60ebc#

@@ -5,7 +5,7 @@ Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Xyloxadoria.
 -----------
-双层高度高架轻轨车站，同时提供公交和地铁车站服务。
+双层高度高架轻轨车站，同时配备公交和地铁站场。
 占地大小：1x4
 维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#

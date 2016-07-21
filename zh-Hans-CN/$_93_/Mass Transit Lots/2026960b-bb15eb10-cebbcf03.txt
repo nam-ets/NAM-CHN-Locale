@@ -5,4 +5,4 @@ Transition between Tram in Road and Subway and/or Underground Rail
 -----------
 维护开支：#m:ea54d286#
 乘客容量：#d:4aa60ebc#
-路中轻轨到地铁与/或地下铁路转换拼块
+路中轻轨<-->地铁与（或）地下铁路转换拼块

@@ -5,7 +5,7 @@ Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Morifari
 -----------
-悬空式45度斜向单轨车站
+悬空式对角单轨车站
 占地大小：1x4，悬空部分的大小为一个方格。
 维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#

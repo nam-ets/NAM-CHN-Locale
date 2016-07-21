@@ -1,3 +1,3 @@
 Monorail Station, Diagonal
 -----------
-45度斜向单轨车站
+对角单轨车站

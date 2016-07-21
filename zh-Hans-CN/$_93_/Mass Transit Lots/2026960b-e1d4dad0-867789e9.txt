@@ -1,3 +1,3 @@
 Subway to Underground Rail Connector (T-Road E-W)
 -----------
-地铁和地下铁路连接拼块（表层为东西向道路T字路口）
+地铁和地下铁路连接拼块（地面层为东西向道路T字路口）

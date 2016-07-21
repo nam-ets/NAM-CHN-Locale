@@ -5,7 +5,7 @@ Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by morifari.
 -----------
-维多利亚风格45度斜向高架铁路车站。
+维多利亚风格对角高架铁路车站。
 占地大小：1x2（车站有悬空部分）
 维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#

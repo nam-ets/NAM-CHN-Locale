@@ -1,11 +1,11 @@
-A station offering any combination of single-width 0m and 15m networks, in addition to bus and optional subway service.
+﻿A station offering any combination of single-width 0m and 15m networks, in addition to bus and optional subway service.
 
 Lot Size: 1x1 (overhanging network beds)
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by E-N (BriPizza).
 -----------
-此车站可以为任意组合的地面与15米的路网提供车站服务，同时提供公交和地铁车站服务。
+此车站可以让地面和15米的任意单格宽度轨道交通网络组合为一座车站，同时配备公交和地铁站场。
 占地大小：1x1（车站有悬空部分）
 维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#
