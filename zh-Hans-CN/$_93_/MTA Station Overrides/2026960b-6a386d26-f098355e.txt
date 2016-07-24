@@ -1,7 +1,7 @@
 Passenger Railroad Depot
 <<<<<<< HEAD
-客运火车乘降所
+客运火车站
 =======
 ------
-客运火车乘降所
+客运火车站
 >>>>>>> refs/heads/master

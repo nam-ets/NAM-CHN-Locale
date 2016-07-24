@@ -1,5 +1,5 @@
 Dual diagonal passenger railway station with pedestrian approach on both sides of the station.
-带有两对轨道的45度斜向客运火车站，乘客可从车站前后两侧进出车站。
+四线对角铁路客运火车站，乘客可从车站前后两侧进出车站。
 
 Lot Size: 2x2
 Monthly Cost:  #m:EA54D286#
@@ -12,7 +12,7 @@ Created by Marrast.
 由Marrast制作。
 =======
 ------
-带有两对轨道的45度斜向客运火车站，乘客可从车站前后两侧进出车站。
+四线对角铁路客运火车站，乘客可从车站前后两侧进出车站。
 占地大小：2x2
 维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#

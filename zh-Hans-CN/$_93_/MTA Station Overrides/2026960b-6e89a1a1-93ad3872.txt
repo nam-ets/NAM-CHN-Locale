@@ -1,5 +1,5 @@
 A tram station for GLR in Avenue. Also integrated is a bus stop.
-用于大道中轻轨的轻轨车站，同时整合了一个公交车站。
+用于大道中轻轨的轻轨车站，同时整合了一座公交车站。
 
 Lot Size: 2x2
 Monthly Cost:  #m:EA54D286#Bulldoze Cost:  #m:099AFACD#
@@ -13,7 +13,7 @@ Model created by gshmails
 模型由gshmails制作。
 =======
 ------
-用于大道中轻轨的轻轨车站，同时整合了一个公交车站。
+用于大道中轻轨的轻轨车站，同时整合了一座公交车站。
 占地大小：2x2
 维护开支：#m:EA54D286#
 拆除费用：#m:099AFACD#

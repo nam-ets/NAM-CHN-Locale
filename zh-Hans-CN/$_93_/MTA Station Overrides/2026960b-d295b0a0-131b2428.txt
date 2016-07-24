@@ -5,7 +5,7 @@ Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Ill Tonkso.
 ------
-一个有八对带屋顶轨道的大型火车总站 。
+一座有八对带屋顶轨道的大型火车总站 。
 占地大小：11x14
 维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#

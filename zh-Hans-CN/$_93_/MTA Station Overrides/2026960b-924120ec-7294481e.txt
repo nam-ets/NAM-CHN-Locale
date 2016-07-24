@@ -1,5 +1,5 @@
 A Railway Station in West Brenntia, with parking.
-坐落于西布伦提亚带有停车场的火车站。
+坐落于西布伦提亚，带有停车场的火车站。
 
 Lot Size:5x7
 Monthly Cost:  #m:EA54D286#
@@ -12,7 +12,7 @@ Created by Ill Tonkso.
 由Ill Tonkso制作。
 =======
 ------
-坐落于西布伦提亚带有停车场的火车站。
+坐落于西布伦提亚，带有停车场的火车站。
 占地大小：5x7
 维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#

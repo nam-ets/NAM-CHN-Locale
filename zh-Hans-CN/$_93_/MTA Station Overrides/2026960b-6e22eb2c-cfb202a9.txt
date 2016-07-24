@@ -1,5 +1,5 @@
 A modern GLR station modelled after the Cercanias (Spanish suburban rail) stations.
-一个根据西班牙近郊铁路车站制作的现代地面轻轨车站
+一座根据西班牙近郊铁路车站制作的现代地面轻轨车站
 
 Lot Size: 1x5
 Monthly Cost:  #m:EA54D286#, Bulldoze Cost:  #m:099AFACD#
@@ -13,7 +13,7 @@ Created by JEC
 由JEC制作。
 =======
 ------
-一个根据西班牙近郊铁路车站制作的现代地面轻轨车站。
+一座根据西班牙近郊铁路车站制作的现代地面轻轨车站。
 占地大小：1x5
 维护开支：#m:EA54D286#
 拆除费用：#m:099AFACD#

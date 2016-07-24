@@ -1,5 +1,5 @@
 An elevated rail station designed to be integrated with the el-rail embankment set.
-一个设计为搭配高架轻轨护坡配合使用的高架铁路车站。
+一座和高架轻轨护坡配合使用的高架铁路车站。
 
 Lot Size: 3x4 plus 1 overhanging tile
 Monthly Cost:  #m:EA54D286#  Bulldoze Cost:  #m:099AFACD#
@@ -13,7 +13,7 @@ Created by morifari
 由morifari制作。
 =======
 ------
-一个设计为搭配高架轻轨护坡配合使用的高架铁路车站。
+一座和高架轻轨护坡配合使用的高架铁路车站。
 占地大小：3x4，悬空部分的大小为一个方格。
 维护开支：#m:EA54D286#
 拆除费用：#m:099AFACD#

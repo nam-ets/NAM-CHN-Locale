@@ -1,5 +1,5 @@
 A large Gothic Revival railway station in London, with parking.
-一个坐落于伦敦带有停车场的大型哥特复兴风格火车站。
+一座坐落于伦敦的大型哥特复兴风格火车站，附带停车场。
 
 Lot Size:9x19
 Monthly Cost:  #m:EA54D286#
@@ -12,7 +12,7 @@ Created by Ill Tonkso.
 由Ill Tonkso制作。
 =======
 ------
-一个坐落于伦敦带有停车场的大型哥特复兴风格火车站。
+一座坐落于伦敦的大型哥特复兴风格火车站，附带停车场。
 占地大小：9x19
 维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#

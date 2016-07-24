@@ -1,6 +1,8 @@
 2x4 Large Railway Station
 <<<<<<< HEAD
+大型火车站，占地面积2x4
 =======
 ------
->>>>>>> refs/heads/master
 大型火车站，占地面积2x4
+>>>>>>> refs/heads/master
+

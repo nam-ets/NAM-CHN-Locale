@@ -1,5 +1,5 @@
 A terminus railway station in London with 8 covered dual tracks.
-一个坐落于伦敦、有八对有屋顶的轨道的火车总站
+一座坐落于伦敦、有八对带雨棚轨道的火车总站
 
 Lot Size:6x17
 Monthly Cost:  #m:EA54D286#
@@ -12,7 +12,7 @@ Created by Ill Tonkso.
 由Ill Tonkso制作。
 =======
 ------
-一个坐落于伦敦、有八对带屋顶的轨道的火车总站。
+一座坐落于伦敦、有八对带雨棚轨道的火车总站。
 占地大小：6x17
 维护开支：#m:EA54D286#
 维护费用：#d:4aa60ebc#

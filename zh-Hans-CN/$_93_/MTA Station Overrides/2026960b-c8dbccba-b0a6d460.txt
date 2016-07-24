@@ -1,5 +1,5 @@
 A modern passenger station designed for use in a downtown setting.
-一个设计为在市中心的设定下使用的现代风格客运车站。
+一座适用于在市中心地区使用的现代风格客运车站。
 
 Lot Size : 4x5
 Bulldoze cost: #m:099AFACD#
@@ -14,7 +14,7 @@ Made by SimGoober
 由SimGoober制作。
 =======
 ------
-一个设计为在市中心的设定下使用的现代风格客运车站。
+一座适用于在市中心地区使用的现代风格客运车站。
 占地大小：4x5
 拆除费用：#m:099AFACD#
 消耗电量：#d:27812854#  消耗水量：#d:C8ED2D84#

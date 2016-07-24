@@ -1,6 +1,6 @@
 Marrast Dual Diagonal Passenger Railway Station
 <<<<<<< HEAD
-有两对轨道的乘客火车站，由Marrast制作
+有两对轨道的乘客火车站，由Marrast制作。
 =======
 ------
 有两对轨道的乘客火车站，由Marrast制作。

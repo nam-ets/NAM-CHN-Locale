@@ -6,7 +6,7 @@ Power: #d:27812854#   Water: #d:C8ED2D84#
 Passenger Capacity :#d:4aa60ebc#
 Made by SimGoober
 ------
-一个设计为在市中心的设定下使用的现代风格客运车站。
+一座适用于在市中心地区使用的现代风格客运车站。
 占地大小：4x5
 拆除费用：#m:099AFACD#
 消耗电量：#d:27812854#  消耗水量：#d:C8ED2D84#
