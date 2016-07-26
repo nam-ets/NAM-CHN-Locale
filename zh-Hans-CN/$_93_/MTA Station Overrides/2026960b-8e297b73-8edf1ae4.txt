@@ -1,6 +1,22 @@
 An elevated rail station (free-standing version).
+一个高架铁路车站（独立车站版）。
 
 Lot Size: 3x4 plus 1 overhanging tile
 Monthly Cost:  #m:EA54D286#  Bulldoze Cost:  #m:099AFACD#
 Passenger Capacity: #d:4aa60ebc#
 Created by morifari
+<<<<<<< HEAD
+占地大小：3x4，悬空部分大小为一个方格。
+每月维护费用：#m:EA54D286#
+拆除费用：#m:099AFACD#
+乘客容量：#d:4aa60ebc#
+由morifari制作。
+=======
+------
+一个高架铁路车站（独立车站版）。
+占地大小：3x4，悬空部分大小为一个方格。
+维护开支：#m:EA54D286#
+拆除费用：#m:099AFACD#
+乘客容量：#d:4aa60ebc#
+制作：morifari
+>>>>>>> refs/heads/master

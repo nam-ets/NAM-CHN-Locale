@@ -1,2 +1,3 @@
 BriPizza 0m-15m Multi-Purpose Station
-0m与15m多功能车站，作者BriPizza
+-----------
+0m与15m多用途车站，作者为BriPizza

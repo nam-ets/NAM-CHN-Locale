@@ -1,7 +1,23 @@
 A tram station, suitable for GLR in Avenue. Also integrated is a bus stop.
+适用于大道中轻轨的轻轨车站，同时整合了一座公交车站。
 
 Lot Size: 2x2
 Monthly Cost:  #m:EA54D286#
 Bulldoze Cost:  #m:099AFACD#
 Passenger Capacity: #d:4aa60ebc#
 Created by Antoine
+<<<<<<< HEAD
+占地大小：2x2
+每月维护费用：#m:EA54D286#
+拆除费用：#m:099AFACD#
+乘客容量：#d:4aa60ebc#
+由Antoine制作。
+=======
+------
+适用于大道中轻轨的轻轨车站，同时整合了一座公交车站。
+占地大小：2x2
+维护开支：#m:EA54D286#
+拆除费用：#m:099AFACD#
+乘客容量：#d:4aa60ebc#
+制作：Antoine
+>>>>>>> refs/heads/master

@@ -1,2 +1,3 @@
 Ninja Boulevard Kiosk
-大道候车亭，作者Ninja
+-----------
+大街候车亭，由Ninja制作。

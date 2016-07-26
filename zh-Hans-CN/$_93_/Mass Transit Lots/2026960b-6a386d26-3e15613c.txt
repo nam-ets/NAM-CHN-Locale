@@ -1,2 +1,3 @@
 Overhanging Bus Rapid Transit Station
-跨越式BRT车站
+-----------
+悬空式快速公交运输（BRT）车站

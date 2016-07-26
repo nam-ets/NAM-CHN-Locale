@@ -1,2 +1,3 @@
 SFBT Subway-Tram Transition
-SFBT制作的地铁-地面轻轨转换拼块
+-----------
+地铁与地面轻轨转换拼块，由SFBT制作。

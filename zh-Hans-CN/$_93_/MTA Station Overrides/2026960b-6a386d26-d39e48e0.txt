@@ -1,1 +1,7 @@
 Shmails GLR Station #1
+<<<<<<< HEAD
+地面轻轨车站 #1，由Shmails制作
+=======
+------
+地面轻轨车站 #1，由Shmails制作。
+>>>>>>> refs/heads/master

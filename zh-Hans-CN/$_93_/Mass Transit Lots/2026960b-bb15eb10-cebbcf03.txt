@@ -1,8 +1,8 @@
 Monthly Cost:    #m:ea54d286#
-维护开支：#m:ea54d286#
-
 Passenger Capacity: #d:4aa60ebc#
-乘客最大容量：#d:4aa60ebc#
 
 Transition between Tram in Road and Subway and/or Underground Rail
-路中轻轨到地铁与/或地下铁路转换拼块
+-----------
+维护开支：#m:ea54d286#
+乘客容量：#d:4aa60ebc#
+路中轻轨<-->地铁与（或）地下铁路转换拼块

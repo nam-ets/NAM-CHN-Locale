@@ -1,11 +1,12 @@
 El Rail over RD-4 station.  Includes bus and optional subway service.
-RD-4上高架轻轨车站，带有公交车站和地铁车站的服务能力。
 
 Lot Size: 3x2, plus overhanging platform.
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Droric.
-占地大小：3x2，悬空月台大小未完全计入。
+----------
+四车道道路上高架轻轨车站，同时配备公交和地铁站场。
+占地大小：3x2（站台有悬空部分）
 维护开支：#m:EA54D286#
-乘客最大容量：#d:4aa60ebc#
+乘客容量：#d:4aa60ebc#
 作者：Droric

@@ -1,2 +1,3 @@
 Subway to Underground Rail Connector (T-Road N-S)
-地铁到地下铁路转换拼块（南北向道路十字路口）
+-----------
+地铁到地下铁路转换拼块（地面为南北向道路T字路口）

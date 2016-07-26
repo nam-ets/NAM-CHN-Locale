@@ -1,1 +1,7 @@
 Blue Line El Rail Station
+<<<<<<< HEAD
+蓝线高架轻轨车站
+=======
+------
+蓝线高架轻轨车站
+>>>>>>> refs/heads/master

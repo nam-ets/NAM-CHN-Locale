@@ -4,9 +4,9 @@ Lot Size: 1x2 (overhanging building)
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by morifari.
-维多利亚风格45度斜向高架轻轨车站
-
+-----------
+维多利亚风格对角高架轻轨车站
 占地大小：1x2（建筑有悬空部分）
-每月维护经费： #m:EA54D286#
-乘客容量： #d:4aa60ebc#
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
 作者：Morifari

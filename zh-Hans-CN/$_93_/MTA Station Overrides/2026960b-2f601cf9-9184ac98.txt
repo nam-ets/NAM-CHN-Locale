@@ -1,11 +1,12 @@
 Small railway station.
-小型铁路车站。
 
 Lot Size: 1x2
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Jasoncw.
+------
+小型火车站。
 占地大小：1x2
-每月维护费用：#m:EA54D286#
+维护开支：#m:EA54D286#
 乘客容量：#d:4aa60ebc#
 作者：Jasoncw

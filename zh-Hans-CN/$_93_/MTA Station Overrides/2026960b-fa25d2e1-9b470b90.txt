@@ -4,3 +4,9 @@ Lot Size:7x16
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by xannepan.
+------
+奥赛火车站，曾经是一座落于巴黎的八线火车总站。
+占地大小：7x16
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：xannepan

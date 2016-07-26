@@ -4,9 +4,9 @@ Lot Size: 3x1 (overhanging network beds)
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by E-N (BriPizza).
-L2多用途车站，附带公交和可选的地铁服务。
-
-占地: 3x1 (跨越型建筑)
-每月费用: #m:EA54D286#
-乘客容量: #d:4aa60ebc#
-作者: E-N (BriPizza)
+-----------
+15m高度多用途车站，同时配备公交和地铁站场。
+占地大小：3x1（车站有悬空部分）
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+作者：E-N (BriPizza)

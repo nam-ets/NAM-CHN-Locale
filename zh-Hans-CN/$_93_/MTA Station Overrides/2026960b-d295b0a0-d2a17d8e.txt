@@ -4,3 +4,9 @@ Lot Size:5x9
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Ill Tonkso.
+------
+男爵十字车站是一座坐落于布伦提亚的布罗雅德行政区的大型交汇车站。
+占地大小：5x9
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：Ill Tonkso

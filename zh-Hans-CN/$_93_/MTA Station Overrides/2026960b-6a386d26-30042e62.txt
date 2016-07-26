@@ -1,2 +1,3 @@
 BSC Modern Narrow Station
-BSC制作的紧凑型现代车站
+------
+现代窄体车站，由BSC制作。

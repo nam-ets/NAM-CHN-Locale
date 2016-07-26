@@ -1,6 +1,0 @@
-Dies ist ein Bahnhof für den Bullet Train Mod (Shinkansen Mod) von Moonlinght. Er verfügt auch über Bus- und U-Bahn-Anschlüsse.
-
-Lotgröße: 1x4
-Monatliche Kosten: #m:EA54D286#
-Passagierkapazität: #d:4aa60ebc#
-Erstellt von Moonlinght.

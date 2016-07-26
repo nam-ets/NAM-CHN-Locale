@@ -1,2 +1,3 @@
 GLR Station with central platform
-带有中间站台的地面轻轨车站
+------
+带有中央站台的地面轻轨车站

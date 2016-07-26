@@ -1,1 +1,7 @@
 Central Train Station
+<<<<<<< HEAD
+中央火车站
+=======
+------
+中央火车站
+>>>>>>> refs/heads/master

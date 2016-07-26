@@ -1,1 +1,7 @@
 Red Line El Rail Station
+<<<<<<< HEAD
+红线高架轻轨站
+=======
+------
+红线高架轻轨站
+>>>>>>> refs/heads/master

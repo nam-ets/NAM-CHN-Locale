@@ -1,2 +1,3 @@
 JENXOLD Tower Bridge. Tower Bridge is a combined bascule and suspension bridge in London, England, over the River Thames. It is close to the Tower of London, which gives it its name.
-塔桥，作者xannapan。坐落于伦敦泰晤士河上的塔桥是活动桥梁和吊桥的一个结合体。它的地理位置跟伦敦塔相近，因而得名。
+-----------
+塔桥，由xannapan制作。坐落于伦敦泰晤士河上的塔桥，由活动桥梁和吊桥结合而成。这座桥梁因靠近伦敦塔而得名。

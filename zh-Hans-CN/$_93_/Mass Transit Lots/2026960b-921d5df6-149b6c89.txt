@@ -4,9 +4,9 @@ Lot Size: 1x6
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Brenda_Xne.
-附带高架铁路站、公交站、地铁站、停车站功能的现代风格车站。
-
-占地: 1x6
-每月费用: #m:EA54D286#
-乘客容量: #d:4aa60ebc#
-作者: Brenda_Xne.
+-----------
+集高架铁路站、公交站、地铁站和停车站于一身的现代风格车站。
+占地大小：1x6
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+作者：Brenda_Xne

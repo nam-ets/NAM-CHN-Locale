@@ -1,2 +1,3 @@
 BriPizza 15m Multi-Purpose Arched Station
-BriPizza制作的L2多用途拱形车站
+-----------
+15m多用途拱形车站，由BriPizza制作。

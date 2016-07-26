@@ -1,6 +1,0 @@
-Eine Umsteigestation mit integriertem Bus- und U-Bahn-Anschluss, Tiefgarage und Fracht-Umschlagsplatz.
-
-Lotgröße: 1x4
-Monatliche Kosten: #m:EA54D286#
-Passagierkapazität: #d:4aa60ebc#
-Erstellt von ralphaelninja.

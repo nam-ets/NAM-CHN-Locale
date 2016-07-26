@@ -1,7 +1,23 @@
 A modern passenger station designed for use in a downtown setting.
+一座适用于在市中心地区使用的现代风格客运车站。
 
 Lot Size : 4x5
 Bulldoze cost: #m:099AFACD#
 Power: #d:27812854#   Water: #d:C8ED2D84#
 Passenger Capacity :#d:4aa60ebc#
 Made by SimGoober
+<<<<<<< HEAD
+占地大小：4x5
+拆除费用：#m:099AFACD#
+消耗电量：#d:27812854#  消耗水量：#d:C8ED2D84#
+乘客容量：#d:4aa60ebc#
+由SimGoober制作。
+=======
+------
+一座适用于在市中心地区使用的现代风格客运车站。
+占地大小：4x5
+拆除费用：#m:099AFACD#
+消耗电量：#d:27812854#  消耗水量：#d:C8ED2D84#
+乘客容量：#d:4aa60ebc#
+制作：SimGoober
+>>>>>>> refs/heads/master

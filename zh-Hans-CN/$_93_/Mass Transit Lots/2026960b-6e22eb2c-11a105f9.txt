@@ -4,3 +4,9 @@ Lot size: 4x1
 Monthly Cost: #m:EA54D286#
 Capacity: #d:4aa60ebc#
 Created by Brenda Xne
+-----------
+现代风格地面轻轨车站，包含公交车站。
+占地大小：4x1
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：Brenda Xne

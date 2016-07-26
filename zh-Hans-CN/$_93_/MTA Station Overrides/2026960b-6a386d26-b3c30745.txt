@@ -1,1 +1,7 @@
 TSC GLR in Avenue Station with pedestrian overpass
+<<<<<<< HEAD
+带有人行天桥的大道中轻轨车站，由TSC团队制作。
+=======
+------
+带有人行天桥的大道中轻轨车站，由TSC团队制作。
+>>>>>>> refs/heads/master

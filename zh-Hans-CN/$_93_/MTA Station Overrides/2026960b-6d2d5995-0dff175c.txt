@@ -1,6 +1,20 @@
 Calatrava's expansion and redefiniton of the Stadelhofen Railway Station.
+苏黎世施塔德尔霍芬火车站，由建筑师卡拉特拉瓦进行扩建和重定义。
 
 Lot Size: 6x8
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by JEC.
+<<<<<<< HEAD
+占地大小：6x8
+每月维护费用：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+由JEC制作
+=======
+------
+苏黎世施塔德尔霍芬火车站，由建筑师卡拉特拉瓦进行扩建和重定义。
+占地大小：6x8
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：JEC
+>>>>>>> refs/heads/master

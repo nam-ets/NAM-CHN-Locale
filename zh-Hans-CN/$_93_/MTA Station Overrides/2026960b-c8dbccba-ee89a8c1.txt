@@ -4,3 +4,9 @@ Lot Size: 2x2
 Monthly Cost:  #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by Marrast.
+------
+四线对角铁路客运火车站，乘客仅能从车站一侧进出车站。
+占地大小：2x2
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：Marrast

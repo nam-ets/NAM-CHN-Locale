@@ -1,6 +1,20 @@
 Railway station with 4 elevated heavy rail lines and bus and subway service, based on Berlin Hauptbahnhoff.
+基于柏林火车总站制作的火车站，拥有四条高架铁路线，以及配套的公交与地铁场站。
 
 Lot Size: 14x8
 Monthly Cost: #m:EA54D286#
 Passenger Capacity: #d:4aa60ebc#
 Created by rajfurke.
+<<<<<<< HEAD
+占地大小：14x8
+每月维护费用：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+由rajfurke制作。
+=======
+------
+基于柏林火车总站制作的火车站，拥有四条高架铁路线，以及配套的公交与地铁场站。
+占地大小：14x8
+维护开支：#m:EA54D286#
+乘客容量：#d:4aa60ebc#
+制作：rajfurke
+>>>>>>> refs/heads/master
