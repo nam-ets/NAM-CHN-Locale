@@ -1,0 +1,4 @@
+FLEXRamp Type A1-INSIDE
+Supports MIS (L0-L4), RHW-4 (L0-L4 and DDRHW-4), RHW-6S (L0-L4), RHW-8S (L0-L2), RHW-10S (L0-L2)
+A1型自适应出入口（内侧）
+适用于 MIS (L0-L4), RHW-4 (L0-L4 and DDRHW-4), RHW-6S (L0-L4), RHW-8S (L0-L2), RHW-10S (L0-L2)

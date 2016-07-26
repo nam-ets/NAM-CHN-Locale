@@ -1,0 +1,4 @@
+FLEXRamp Type A1
+Supports RHW-2 (L0-L2), RHW-3 (L0 Only), MIS (L0-L4), RHW-4 (L0-L4 and DDRHW-4), RHW-6S (L0 Only due to overhang), RHW-6C (L0-L2), RHW-8S (L0-L2), RHW-8C (L0-L2), RHW-10S (L0-L2)
+A1型自适应出入口
+适用于 RHW-2 (L0-L2), RHW-3 (L0 Only), MIS (L0-L4), RHW-4 (L0-L4 and DDRHW-4), RHW-6S (L0 Only due to overhang), RHW-6C (L0-L2), RHW-8S (L0-L2), RHW-8C (L0-L2), RHW-10S (L0-L2)

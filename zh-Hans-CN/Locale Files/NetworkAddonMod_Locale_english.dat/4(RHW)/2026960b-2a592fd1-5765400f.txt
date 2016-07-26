@@ -1,0 +1,4 @@
+FLEXRamp Type E2
+Supports RHW-6S (L0 Only), RHW-8S (L0 Only)
+E2型自适应出入口
+适用于 RHW-6S (仅L0), RHW-8S (仅L0)

@@ -1,0 +1,4 @@
+FLEXRamp Type D2
+Supports RHW-6S (L0-L4), RHW-8S (L0-L2)
+D2型自适应出入口
+适用于 RHW-6S (L0-L4), RHW-8S (L0-L2)

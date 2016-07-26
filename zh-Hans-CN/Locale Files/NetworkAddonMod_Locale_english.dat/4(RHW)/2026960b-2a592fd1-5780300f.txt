@@ -1,0 +1,4 @@
+FLEXRamp Type D1
+Supports RHW-4 (L0-L4), RHW-6S (L0-L4), RHW-8S (L0 Only), RHW-8C (L0-L2), RHW-10S (L0-L2)
+D1型自适应出入口
+适用于 RHW-4 (L0-L4), RHW-6S (L0-L4), RHW-8S (仅限L0), RHW-8C (L0-L2), RHW-10S (L0-L2)
