@@ -1,6 +1,6 @@
 Street tunnel connecting to underground road
 Rotate for other ramps
 Build on flank of a 10m high hill!
-街道隧道连接地下道路
+连接地下道路的街道隧道
 旋转以获得其它出入口
-在10米高坡道的一侧建造
+请在10米高坡的一侧建造！

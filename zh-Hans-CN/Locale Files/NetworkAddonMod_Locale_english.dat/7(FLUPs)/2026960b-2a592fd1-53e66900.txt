@@ -1,4 +1,4 @@
 Diagonal underground route under straight Tram
 Rotate for other tram pieces
-对角地下通道藏于直行轻轨
+对角地下通道下穿直行轻轨
 按Home/End可切换轻轨样式

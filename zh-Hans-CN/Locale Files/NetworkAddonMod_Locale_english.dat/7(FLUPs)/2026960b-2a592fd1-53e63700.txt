@@ -1,5 +1,5 @@
 RHW2 ramp connecting to underground road
 Rotate for other ramps
 Build on flat ground!
-RHW-2 地下通道匝道
+地下RHW-2出入口
 按Home/End键以转换其它地下通道匝道  请建在平地上！
