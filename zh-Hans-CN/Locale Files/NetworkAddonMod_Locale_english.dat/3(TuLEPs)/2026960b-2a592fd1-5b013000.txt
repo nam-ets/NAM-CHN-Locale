@@ -1,4 +1,5 @@
 TLA-7/AVE-6 Type A Transition
 Plop in center of network
-七车道转向车道大道/六车道大道A型转换
-放置在道路的中间一格
+----------
+A型渠化TLA-7/AVE-6转换拼块
+请放置在道路的中间一格

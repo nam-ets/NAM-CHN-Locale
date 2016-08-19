@@ -1,2 +1,3 @@
 TLA-5 TuLEP-Type AxSTR (Rotate for Avenue)
-TLA-5 TuLEP-A类平交单线铁路 (旋转以获得大道)
+-----------
+A型渠化TLA-5与单线铁路平交拼块（旋转以获得大道平交拼块）

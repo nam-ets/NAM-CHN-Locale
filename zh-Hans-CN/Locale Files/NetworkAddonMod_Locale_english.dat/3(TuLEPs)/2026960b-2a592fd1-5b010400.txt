@@ -1,2 +1,3 @@
 Road TuLEP-Type A/Base Network Transition T-End (Rotate for Non-T)
-道路TuLEP A类/基础交通网络转换(无左转道道路) (旋转为有左转道道路)
+-----------
+A型渠化无左转道道路与普通道路转换拼块（旋转以获得带左转道道路）

@@ -1,2 +1,3 @@
 Avenue TuLEP-Type A-Blank-2 (Rotate for A-Blank-1)
-大道TuLEP-A类-无转向标线-2 (旋转以获得A-无转向标线-1)
+---------
+A型无转向标线大道渠化拼块-2（旋转以获得A型无转向标线大道渠化拼块-1)

@@ -1,2 +1,3 @@
 Avenue TuLEP-Type A/Base Network Transition (Rotate for Type B Transition)
-大道TuLEP A类/基础交通网络转换 (旋转以获得B类转换)
+------------
+A型渠化大道与普通大道转换拼块（旋转以获得B型转换拼块）

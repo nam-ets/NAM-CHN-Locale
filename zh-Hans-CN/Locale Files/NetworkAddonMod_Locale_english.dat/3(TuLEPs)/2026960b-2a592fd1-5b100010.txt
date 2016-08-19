@@ -1,2 +1,3 @@
 Road TuLEP-Type AxSTR (Rotate for DTR)
-道路TuLEP-A类平交单线铁路 (旋转以获得铁路)
+----------
+A型渠化道路与单线铁路平交拼块（旋转以获得双线铁路平交拼块）

@@ -1,2 +1,3 @@
 NWM AVE-2 TuLEP-Type A/Base Network Transition (Rotate for TLA-3 Transition)
-NWM AVE-2 TuLEP A类/基础交通网络转换 (旋转以获得TLA-3转换)
+---------------
+A型渠化AVE-2与普通AVE-2转换拼块（旋转以获得TLA-3转换拼块）

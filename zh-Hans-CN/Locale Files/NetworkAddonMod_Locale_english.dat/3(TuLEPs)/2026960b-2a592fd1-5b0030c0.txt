@@ -1,4 +1,5 @@
 TLA-7/AVE-6 Type A-Blank TuLEP
 Plop in center of network
-七车道转向车道大道/六车道大道A型空白道路渠化拼块
-放置在道路的中间一格
+-----------
+A型无转向标线TLA-7/AVE-6渠化拼块
+请放置在道路的中间一格

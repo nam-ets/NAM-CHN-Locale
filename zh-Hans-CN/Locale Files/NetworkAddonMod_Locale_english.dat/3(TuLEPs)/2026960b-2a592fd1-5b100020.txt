@@ -1,2 +1,3 @@
 Road TuLEP-Type AxGLR
-道路TuLEP-A类平交地面轻轨
+----------
+A型渠化道路与地面轻轨平交拼块
