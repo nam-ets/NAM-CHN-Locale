@@ -1,2 +1,3 @@
 Avenue over Blank Terrain - transition straight to diagonal
-大道高架桥 - 正向到对角转换
+----------
+大道高架桥空白地块上直行与对角转换拼块

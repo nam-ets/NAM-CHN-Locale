@@ -1,4 +1,5 @@
 Level 1 (7.5m) One-Way Road Viaduct Starter Piece
 Drag the ONE-WAY ROAD network through the starter to build viaduct.
-L1高架单行道起始拼块
-拖拽单行道组件使其穿过起始拼块来建造高架单行道
+----------
+可拖拽L1层（7.5米）单行道高架桥起始拼块
+使用单行道组件拖拽穿过起始拼块，来建造单行道高架桥。

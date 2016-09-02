@@ -1,4 +1,5 @@
 Level 2 (15m) Avenue Viaduct Starter Piece
-Drag the AVENUE network through the starter to build viaduct.、
-L2高架大道起始拼块
-拖拽大道组件使其穿过起始拼块来建造高架大道
+Drag the AVENUE network through the starter to build viaduct.
+-----------
+可拖拽L2层（15米）大道高架桥起始拼块
+使用大道组件拖拽穿过起始拼块，来建造大道高架桥。
