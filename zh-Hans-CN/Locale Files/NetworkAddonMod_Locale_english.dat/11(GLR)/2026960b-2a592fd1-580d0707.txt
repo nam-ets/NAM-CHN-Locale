@@ -1,5 +1,5 @@
 Elevated to Rural Ground Light Rail Connector Puzzle Piece
 The arrows indicate the direction in which the GLR can be dragged.
 ----------
-高架轻轨与郊区地面轻轨转接拼块
-箭头所指即为地面轻轨可拖拽方向。
+高架轻轨与郊区地面轻轨转换拼块
+箭头所指方向为拖拽地面轻轨的方向。
