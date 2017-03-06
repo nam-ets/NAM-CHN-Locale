@@ -1,2 +1,3 @@
 Diagonal Tram-Avenue - crossing orthogonal road
-对角电车大道平交口 被正向道路穿过
+-----------
+对角大道中轻轨与直向道路十字平交口

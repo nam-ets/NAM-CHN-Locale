@@ -1,2 +1,3 @@
 Tram-Avenue junction: Avenue T-intersection - 4way Tram (normal Tram on one side)
-大道中轻轨交叉路口：大道T型路口 - 4向轻轨（一侧为普通轻轨）
+-----------
+大道中轻轨平交拼块 - 大道T字路口，轻轨十字平交（一侧为地面轻轨）

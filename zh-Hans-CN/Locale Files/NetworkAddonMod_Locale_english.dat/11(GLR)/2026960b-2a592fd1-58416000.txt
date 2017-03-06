@@ -1,2 +1,3 @@
 Tram-Avenue - Avenue ending with tram continuing on left side - with crossing road
-大道中轻轨 - 大道/道路丁字路口，轻轨左侧直行
+-----------
+大道中轻轨 - 大道与道路T字路口，轻轨靠左侧直行

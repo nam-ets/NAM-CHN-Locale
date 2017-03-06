@@ -1,2 +1,3 @@
 Tram-in-Road crossing with avenue
-路中轻轨 - 平交于大道
+-----------
+路中轻轨与大道十字平交口

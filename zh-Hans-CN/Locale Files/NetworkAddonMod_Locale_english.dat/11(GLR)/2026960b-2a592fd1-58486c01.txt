@@ -1,2 +1,3 @@
 Bridge connector for Tram-on-Road - Handle with care - may crash the game when selected and cursor touches a tram station
-路面轻轨桥梁连接器 - 小心使用 - 可能在选中时因光标接触地面轻轨车站而崩溃游戏
+-----------
+路面轻轨桥梁连接器。请小心使用，可能会因为在选中此拼块时光标与地面轻轨车站接触而导致游戏崩溃。

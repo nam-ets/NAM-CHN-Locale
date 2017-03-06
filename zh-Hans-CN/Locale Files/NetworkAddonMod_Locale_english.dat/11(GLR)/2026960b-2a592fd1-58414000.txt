@@ -1,2 +1,3 @@
 Diagonal Tram-Avenue transition to straight onewayroads and tram (3 tiles)
-对角大道中轻轨转接为直行单行道与地面轻轨（3格）
+-----------
+对角大道中轻轨与直行单行道及地面轻轨（宽度为3格）转换拼块

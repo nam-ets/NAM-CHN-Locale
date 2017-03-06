@@ -1,2 +1,3 @@
 Tram-avenue junction and transition to tram-in-road
-大道中轻轨于丁字路口平交于道路并转换为路中轻轨
+-----------
+大道中轻轨与道路T字平交并转换为路中轻轨

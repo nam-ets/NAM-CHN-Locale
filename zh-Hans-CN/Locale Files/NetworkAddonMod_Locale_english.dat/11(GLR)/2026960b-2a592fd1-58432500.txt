@@ -1,2 +1,3 @@
 Diagonal Tram-Avenue - diagonal Onewayroad Intersection on one side
-对角电车大道三岔口 包含对角单行道
+-----------
+对角大道中轻轨与对角单行道T字平交口拼块

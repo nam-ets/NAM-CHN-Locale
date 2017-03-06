@@ -1,2 +1,3 @@
 Transition of Tram to Tram-in-Road with crossing Avenue
-路中轻轨 - 平交于大道，转换为地面轻轨
+-----------
+路中轻轨与大道T字平交并转换为地面轻轨

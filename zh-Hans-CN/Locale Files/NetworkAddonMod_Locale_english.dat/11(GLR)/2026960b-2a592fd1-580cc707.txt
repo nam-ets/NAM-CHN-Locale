@@ -1,5 +1,5 @@
 Ground Light Rail Rural Straight Puzzle Piece
 The arrows indicate the direction in which the GLR can be dragged.
 ----------
-可拖拽郊区地面轻轨直行起始拼块
+可拖拽直行郊区地面轻轨起始拼块
 箭头所指方向为拖拽地面轻轨的方向。

@@ -1,2 +1,3 @@
 Tram-Avenue - Road Intersection
-大道中轻轨 - 道路平交
+-----------
+大道中轻轨与道路十字平交

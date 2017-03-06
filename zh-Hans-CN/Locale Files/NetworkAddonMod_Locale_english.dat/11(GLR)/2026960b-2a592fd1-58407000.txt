@@ -1,2 +1,3 @@
 Tram-Avenue - OneWayRoad Intersection
-大道中轻轨 - 单行道平交
+-----------
+大道中轻轨与单行道十字平交口

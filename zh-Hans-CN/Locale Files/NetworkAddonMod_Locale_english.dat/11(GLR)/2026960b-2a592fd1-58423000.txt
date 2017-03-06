@@ -1,2 +1,3 @@
 Tram-Avenue transition to road (right) and tram (left)
-大道中轻轨转接为右侧道路左侧轻轨
+-----------
+大道中轻轨转换为靠右侧直行道路及靠左侧直行地面轻轨

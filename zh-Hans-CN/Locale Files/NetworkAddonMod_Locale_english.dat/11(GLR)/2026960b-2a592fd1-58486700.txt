@@ -1,2 +1,3 @@
 Tram-in-Road - Street crossing
-路中轻轨 - 街道十字路口
+-----------
+路中轻轨与街道十字平交口

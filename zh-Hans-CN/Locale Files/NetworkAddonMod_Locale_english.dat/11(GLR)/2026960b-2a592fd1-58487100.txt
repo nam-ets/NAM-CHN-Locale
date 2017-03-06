@@ -1,2 +1,3 @@
 Tram-in-Road - Curve with two Road junctions
-路中轻轨 - 道路十字路口，轻轨L形转向
+-----------
+路中轻轨 - 道路十字平交，轻轨90度转向

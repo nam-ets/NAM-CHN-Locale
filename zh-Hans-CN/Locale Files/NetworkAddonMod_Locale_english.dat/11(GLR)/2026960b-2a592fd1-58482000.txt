@@ -1,2 +1,3 @@
 Tram-in-Road - transition crossing to Tram-in-Avenue
-大道中轻轨于十字路口平交于道路并转换为路中轻轨
+-----------
+大道中轻轨与道路十字平交并转换为路中轻轨

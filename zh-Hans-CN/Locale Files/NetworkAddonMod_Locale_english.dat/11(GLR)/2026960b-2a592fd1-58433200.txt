@@ -1,2 +1,3 @@
 Orthogonal Tram-Avenue junction with diagonal Tram-Avenue and orthogonal avenue
-正向电车大道平交口 包含对角电车大道和正向大道
+-----------
+直行大道中轻轨与直行大道和对角大道中轻轨平交口拼块

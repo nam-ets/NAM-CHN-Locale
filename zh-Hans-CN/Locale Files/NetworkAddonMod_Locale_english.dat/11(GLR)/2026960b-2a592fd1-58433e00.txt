@@ -1,2 +1,3 @@
 Orthogonal / diagonal Tram-Avenue Y-junction
-正向大道中轻轨x对角大道中轻轨 Y型平交口
+-----------
+直行大道中轻轨与对角大道中轻轨Y字平交口拼块

@@ -1,4 +1,5 @@
 Tram-Avenue transition to Avenue with Tram turning circle (grass)
 Fill gap with Station or puzzle pieces 
-大道中轻轨转接为大道与轻轨掉头线 (草坪装饰)
-用车站或拼块填充空缺
+-----------
+大道中轻轨与大道及地面轻轨灯泡线转换拼块（带草坪装饰） - 预留车站空位
+请用大道中轻轨的车站或拼块填充空缺

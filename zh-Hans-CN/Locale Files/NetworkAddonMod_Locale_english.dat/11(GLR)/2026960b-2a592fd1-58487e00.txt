@@ -1,2 +1,3 @@
 Tram-on-Road curve with Road intersection
-路面轻轨弯道，道路丁字路口
+-----------
+路面轻轨与道路T字平交口 - 轻轨90度转向

@@ -1,2 +1,3 @@
 Tram-Avenue junction: 4way Avenue - Tram T-Intersection
-大道中轻轨平交口：大道十字路口 - 轻轨丁字平交
+-----------
+大道中轻轨与大道十字平交口 - 轻轨丁字平交
