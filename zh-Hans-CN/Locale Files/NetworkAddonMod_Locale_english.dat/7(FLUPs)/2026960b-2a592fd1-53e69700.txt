@@ -1,4 +1,4 @@
 Underground tram junction under Avenue-Road junction
 Can be used for underground tram curve, 4way or T junctions
-地下轻轨会合处藏于大道-道路十字路口
-可用于地下轻轨弯道，交叉或者丁字会合
+地下轻轨交汇处藏于大道-道路十字路口
+可用于地下轻轨弯道，交叉或者丁字交汇处

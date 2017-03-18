@@ -1,4 +1,4 @@
 Straight underground route perpendicular under straight RHW6
 Rotate for other RHW pieces
-直行地下通道垂直下跨直行RHW-6S
-按Home/End键转换至其它的地下通道下跨RHW拼块
+直行地下通道下穿直行RHW-6S
+按Home/End键转换至其它的地下通道下穿RHW拼块
