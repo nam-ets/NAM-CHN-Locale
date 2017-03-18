@@ -1,2 +1,3 @@
 Ground Light Rail Diagonal Left Junction Puzzle Piece
-对角地面轻轨直行/左转(直行分岔)平交拼块
+-----------
+45度斜向地面轻轨直行及左转（直行分岔）平交拼块

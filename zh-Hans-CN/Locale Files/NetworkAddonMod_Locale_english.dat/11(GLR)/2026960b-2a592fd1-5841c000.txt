@@ -1,2 +1,3 @@
 Tram-Avenue - transition to road (right) and tram (left) side - with intersecting road on right
-电车大道 - 直行转换至道路(右侧)和地面轻轨(左侧) - 包含T型交叉口(右侧道路)
+-----------
+大道中轻轨 - 大道与右侧道路T字平交后转换为道路靠右侧直行，轻轨靠左侧直行

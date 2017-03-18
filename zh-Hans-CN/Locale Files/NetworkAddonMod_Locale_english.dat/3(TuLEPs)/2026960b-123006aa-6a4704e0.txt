@@ -2,7 +2,8 @@ For building Basic Turning Lane Extension Pieces (TuLEPs)
 Button contains Turn Lane and Slip Lane Puzzle Pieces for various networks and configurations
 Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of Puzzle Pieces
 When the cursor changes from red to green, click to place
-用于建造基础道路渠化拼块 (TuLEPs)
-这个按钮包含了适用多种交通网络和配置的道路渠化拼块
+--------------
+用于建造基础道路渠化拼块（TuLEPs）。
+这个按钮包含了适用多种交通网络和配置的道路渠化拼块。
 使用Home/End键旋转拼块，使用Tab键循环显示不同种类的拼块。
 当光标由红变绿时，单击以建造。

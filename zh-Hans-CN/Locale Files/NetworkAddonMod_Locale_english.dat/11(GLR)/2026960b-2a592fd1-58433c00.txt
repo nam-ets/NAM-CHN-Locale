@@ -1,2 +1,3 @@
 Tram-Avenue Y-junction with straight Avenue
-大道中轻轨Y型平交口 包含正向大道
+-----------
+大道中轻轨与大道Y字平交口拼块 - 包含直行大道

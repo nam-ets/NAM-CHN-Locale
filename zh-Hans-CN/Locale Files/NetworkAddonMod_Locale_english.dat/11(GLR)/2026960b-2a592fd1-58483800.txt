@@ -1,2 +1,3 @@
 Tram-in-Avenue - Triangle with Tram-in-Road - Road junction
-大道中轻轨 - 与路中轻轨丁字连接 - 一侧连接道路
+-----------
+大道中轻轨十字平交口拼块，一侧连接路中轻轨，另一侧连接道路

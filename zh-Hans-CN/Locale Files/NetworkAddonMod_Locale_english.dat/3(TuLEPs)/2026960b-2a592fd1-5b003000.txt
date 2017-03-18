@@ -1,4 +1,5 @@
 TLA-7/AVE-6 Type A1 TuLEP
 Plop in center of network
-七车道转向车道大道/六车道大道A1型道路渠化拼块
-放置在道路的中间一格
+-----------
+A1型TLA-7/AVE-6渠化拼块
+请放置在道路的中间一格

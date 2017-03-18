@@ -1,2 +1,3 @@
 Tram-in-Road - Road junction
-路中轻轨 - 道路丁字路口
+-----------
+路中轻轨与道路T字平交口

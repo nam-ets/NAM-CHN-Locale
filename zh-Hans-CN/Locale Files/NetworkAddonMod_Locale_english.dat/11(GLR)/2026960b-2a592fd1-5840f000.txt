@@ -1,2 +1,3 @@
 Tram-Avenue 4way junction
-大道中轻轨十字路口
+-----------
+大道中轻轨十字平交口

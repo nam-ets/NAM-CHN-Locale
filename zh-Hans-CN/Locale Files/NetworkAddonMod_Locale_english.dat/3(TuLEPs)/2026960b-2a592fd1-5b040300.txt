@@ -1,2 +1,3 @@
 One-Way Road/Single Slip Lane Interface
-单行道/单外侧转向道
+-----------
+单行道单外侧转向道（只能右转）

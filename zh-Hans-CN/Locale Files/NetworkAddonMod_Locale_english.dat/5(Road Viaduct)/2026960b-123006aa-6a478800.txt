@@ -2,7 +2,7 @@ For building One-Way Road Puzzle Pieces that interface with the RHW
 Button contains pieces to interface between the NAM Elevated One-Way Road Puzzle Pieces and RHW networks, including overpasses and intersections
 Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of One-Way Road/RHW Pieces
 When the cursor changes from red to green, click to place.
-高架(L2)单行道/真实高速公路立交和路口拼块
-按钮包含了NAM高架(L2)单行道拼块和RHW的交接，包括立交和交叉口
-使用 Home/End 键来旋转拼块 & 使用TAB键来切换不同的高架(L2)单行道/RHW拼块类型
-当徽标从红色变为绿色时，点击以放置。
+-----------
+此按钮单行道15米高架桥与真实高速公路立交和路口拼块，包含不同种类的NAM单行道15米高架桥拼块和RHW的交接拼块，包括立交和交叉口。
+按Home/End键旋转拼块，按Tab键切换不同的单行道与RHW立交和路口拼块。
+当光标从红色变为绿色时，单击以建造拼块。

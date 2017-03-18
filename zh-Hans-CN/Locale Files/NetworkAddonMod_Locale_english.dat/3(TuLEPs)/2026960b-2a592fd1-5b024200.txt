@@ -1,2 +1,3 @@
 Avenue TuLEP-Type B1/B1 +-Intersection (Rotate for A1/B1 +-Intersection)
-大道TuLEP B1/B1类 十字路口 (旋转以获得A1/B1十字路口)
+-----------
+B1型渠化大道十字路口拼块（旋转以获得A1/B1型十字路口拼块）

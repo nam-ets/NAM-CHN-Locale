@@ -1,2 +1,3 @@
 Tram-Avenue transition to Avenue - Tram T-junction
-大道中轻轨转接为大道 - 轻轨丁字平交
+-----------
+大道中轻轨与地面轻轨T字平交后转换为大道

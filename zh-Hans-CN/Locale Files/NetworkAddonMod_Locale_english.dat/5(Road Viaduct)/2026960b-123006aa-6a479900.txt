@@ -3,8 +3,8 @@ Button contains pieces to interface between the NAM Elevated Avenue Puzzle Piece
 Use the Home/End key to rotate the Puzzle Piece & use the TAB key to cycle through the different types of Avenue/RHW Pieces
 When the cursor changes from red to green, click to place.
 FlexSPUI and Diverging Diamond pieces are found under this button
-大道/真实高速公路立交和路口拼块
-按钮包含了NAM高架(15m)大道拼块和RHW的交接，包括立交，大道的MIS匝道口以及交叉口
-使用 Home/End 键来旋转拼块 & 使用TAB键来切换不同的大道/RHW拼块类型
-当徽标从红色变为绿色时，点击以放置。
-包括单点菱形立交和分流菱形立交拼块在选项的末端能找到。
+----------
+此按钮用于建设大道高架桥与真实高速公路平立交与路口拼块，包含NAM大道15米高架桥拼块和RHW的交接，包括立交、大道的MIS匝道口以及交叉口。
+按Home/End键旋转拼块，按Tab键切换不同拼块。
+当光标从红色变为绿色时，单击以建造拼块。
+单点菱形立交和分流菱形立交拼块可在选项的末端找到。

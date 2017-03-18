@@ -1,2 +1,3 @@
 Tram-on-Road - Street intersection
-路面轻轨 - 一侧街道丁字路口
+-----------
+路面轻轨与街道单侧T字路口

@@ -1,4 +1,5 @@
 Tram-Avenue with Tram turning circle
 Fill gap with Station or puzzle pieces 
-大道中轻轨连接轻轨掉头线
-用车站或拼块填充空缺
+-----------
+带有地面轻轨灯泡线的大道中轻轨拼块 - 预留车站空位
+请用大道中轻轨的车站或拼块填充空缺

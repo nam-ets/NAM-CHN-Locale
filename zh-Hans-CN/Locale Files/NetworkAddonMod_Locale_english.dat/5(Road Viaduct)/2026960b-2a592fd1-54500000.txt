@@ -1,2 +1,3 @@
 Freeway Exit - Straight
-大道x道路菱形立交
+----------
+大道与道路菱形立交

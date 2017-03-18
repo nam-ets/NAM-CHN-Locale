@@ -1,2 +1,3 @@
 Tram-Avenue - straight Avenue - Tram T-Intersection
-大道中轻轨 - 大道直行 - 轻轨丁字平交
+-----------
+大道中轻轨与地面轻轨T字平交口

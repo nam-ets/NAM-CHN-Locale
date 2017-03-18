@@ -1,2 +1,3 @@
 Diagonal Tram-Avenue - diagonal Road Intersection
-对角大道中轻轨x对角道路平交口
+-----------
+对角大道中轻轨与对角道路十字平交口

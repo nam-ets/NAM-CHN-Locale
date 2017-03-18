@@ -1,2 +1,3 @@
 Road TuLEP Type A1/Single Slip Lane Interface
-道路TuLEP A1类/单外侧转向道
+----------
+A1型渠化道路单外侧转向道

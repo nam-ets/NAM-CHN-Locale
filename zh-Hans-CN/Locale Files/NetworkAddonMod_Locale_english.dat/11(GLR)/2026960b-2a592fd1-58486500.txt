@@ -1,2 +1,3 @@
 Tram-in-Road - bending road and street
-路中轻轨 - 道路L形转向，一侧连接街道
+-----------
+路中轻轨 - 道路90度转向，一侧连接街道

@@ -1,2 +1,3 @@
 TLA-7/AVE-6 Type A1 - Road Type A2 T Intersection
-七车道转向车道大道/六车道大道A1型 - 道路A2型T字路口
+----------
+A1型渠化TLA-7/AVE-6与A2型渠化道路T字路口

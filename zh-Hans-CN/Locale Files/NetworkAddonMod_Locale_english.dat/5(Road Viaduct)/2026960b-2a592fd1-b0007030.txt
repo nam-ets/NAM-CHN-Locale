@@ -1,2 +1,3 @@
-Road over OneWayRoad overpass. For best results, make sure the terrain underneath the overpass is clear when building
-道路跨越单行道立交。为了获得最佳的效果，在建设前请先保证立交桥下的地面平整无物。
+Road over OneWayRoad overpass. For best results, make sure the terrain underneath the overpass is clear when building.
+----------
+道路跨越单行道跨线桥。为了获得最佳的效果，在建设前请先保证立交桥下的地面平整无物。

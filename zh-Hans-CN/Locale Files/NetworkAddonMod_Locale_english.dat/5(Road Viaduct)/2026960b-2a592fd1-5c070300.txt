@@ -1,4 +1,5 @@
 2-Level FLEX One-Way Road On-Slope Transition (works for L0-L2)
 Drag the ONE-WAY ROAD network THROUGH the transition to use.
-两层高架单行道自适应斜坡上转换（适用于地面至L2的转换）
-从转换器的两端拖拽单行道组件来使用
+----------
+单行道高架桥两层高度自适应高度转换拼块（适用于地面至L2层的转换）
+使用单行道组件拖拽穿过转换拼块来进行高度转换。

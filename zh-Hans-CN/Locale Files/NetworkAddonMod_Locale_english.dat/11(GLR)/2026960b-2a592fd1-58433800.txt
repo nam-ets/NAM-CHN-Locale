@@ -1,2 +1,3 @@
 Orthogonal-diagonal transition of Tram-Avenue and two Avenues
-大道中轻轨正向-对角弯道平交口 包含两个大道
+-----------
+大道中轻轨与大道平交口拼块 - 大道中轻轨45度转向

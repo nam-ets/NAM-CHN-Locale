@@ -1,2 +1,3 @@
 Diagonal Tram-Avenue - intersection with orthogonal Tram
-对角大道中轻轨x正向地面轻轨平交口
+-----------
+对角大道中轻轨与直行地面轻轨平交口

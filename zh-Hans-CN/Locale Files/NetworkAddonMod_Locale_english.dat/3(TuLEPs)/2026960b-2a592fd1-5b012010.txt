@@ -1,2 +1,3 @@
 Avenue Type A Ground-to-L2 Elevated (15m) Transition ON-SLOPE
-(若看到这句请联系NAM汉化组)
+-----------
+A型渠化大道斜坡上地面层与L2层转换拼块

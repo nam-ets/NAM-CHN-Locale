@@ -1,2 +1,3 @@
 Tram-on-Road junction with crossing Road
-路面轻轨，道路十字路口
+-----------
+路面轻轨与道路十字平交口

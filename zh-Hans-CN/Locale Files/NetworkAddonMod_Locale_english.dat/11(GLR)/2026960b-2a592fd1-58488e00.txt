@@ -1,2 +1,3 @@
 Tram-on-Road transition to tram - junction with crossing Road
-路面轻轨转接为地面轻轨 - 道路丁字路口
+-----------
+路面轻轨转换为地面轻轨，与道路T字平交

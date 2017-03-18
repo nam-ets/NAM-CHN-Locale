@@ -1,2 +1,3 @@
 Tram-on-Road curve with two Street intersections
-路面轻轨弯道两侧街道插入
+-----------
+路面轻轨弯道，两侧连接街道

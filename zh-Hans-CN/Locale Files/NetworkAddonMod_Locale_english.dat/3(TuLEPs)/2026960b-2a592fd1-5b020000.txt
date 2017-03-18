@@ -1,2 +1,3 @@
 Road TuLEP Type A1 +-Intersection (Rotate for A1/A2 T-Intersection)
-大道TuLEP A1类十字路口 (旋转以获得A1/A2丁字路口)
+----------
+A1型渠化大道十字路口拼块（旋转以获得A1/A2型渠化道路丁字路口拼块）

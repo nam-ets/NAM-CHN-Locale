@@ -1,2 +1,3 @@
 Tram-on-Road curve with two Road intersections
-路面轻轨弯道，道路十字路口
+-----------
+路面轻轨与道路十字平交口 - 轻轨90度转向

@@ -2,6 +2,7 @@ For creating One-Way Road overpasses
 Button contains several different overpasses for One-Way Road
 Use the Home/End key to rotate the overpass, & use the TAB key to cycle through the different types of OneWayRoad overpasses
 When the cursor changes from red to green, click to place
-单行道跨越拼块
-按 Home/End 旋转拼块
-按 Tab 切换拼块
+-----------
+此按钮用于建造单行道跨线桥拼块，包含不同种类的单行道跨线桥拼块。
+按Home/End键旋转拼块，按Tab键切换不同的单行道跨线桥拼块。
+当光标从红色变为绿色时，单击以建造拼块。
